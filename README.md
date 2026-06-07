@@ -119,6 +119,6 @@ Developed as a Final Year Project for educational and research purposes.
 
 ## Authors
 
-Team C13
+P T LOKESH
 
 Virtual Herbal Garden Project
