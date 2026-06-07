@@ -1,0 +1,2057 @@
+{
+    "Abelmoschus sagittifolius": {
+      "common_name": "Arrowleaf Mallow",
+      "scientific_name": "Abelmoschus sagittifolius",
+      "benefits": "Traditionally used for treating cough, inflammation, and skin ailments.",
+      "habitat": "Tropical and subtropical regions, grows in sandy or loamy soil.",
+      "traditional_uses": "Used in traditional Chinese medicine for lung health and detoxification.",
+      "parts_used": "Roots, Leaves.",
+      "precautions": "Overuse may cause digestive upset in sensitive individuals.",
+      "description": "A perennial plant known for its arrow-shaped leaves and medicinal uses in traditional medicine. It has yellow flowers and a wide range of applications, from respiratory relief to skincare remedies. The roots are particularly valued for their detoxifying properties."
+    },
+    "Abrus precatorius": {
+      "common_name": "Rosary Pea",
+      "scientific_name": "Abrus precatorius",
+      "benefits": "Used for skin conditions, joint pain, and cough.",
+      "habitat": "Tropical and subtropical areas, often found as a climbing vine in forests.",
+      "traditional_uses": "Seeds and roots are used in Ayurveda and Siddha medicine.",
+      "parts_used": "Seeds (toxic, used externally), Leaves, Roots.",
+      "precautions": "Highly toxic if seeds are ingested; can be fatal.",
+      "description": "A climbing vine with striking red and black seeds, commonly used in traditional medicine for external applications. The plant's roots are valued for their anti-inflammatory properties, but extreme caution is needed due to the toxicity of its seeds, which are highly poisonous if consumed."
+    },
+    "Abutilon indicum": {
+      "common_name": "Indian Mallow",
+      "scientific_name": "Abutilon indicum",
+      "benefits": "Anti-inflammatory, improves digestion, and relieves respiratory issues.",
+      "habitat": "Tropical and subtropical regions, grows well in sandy and loamy soils.",
+      "traditional_uses": "Known in Ayurveda for treating asthma, diarrhea, and ulcers.",
+      "parts_used": "Leaves, Flowers, Roots.",
+      "precautions": "Prolonged use may cause mild irritation in some individuals.",
+      "description": "A shrub with soft leaves and yellow-orange flowers, often used for its medicinal properties. It is particularly valued in traditional medicine for its effectiveness against respiratory issues and digestive disorders. The plant is also used to make poultices for wounds."
+    },
+    "Acorus tatarinowii": {
+      "common_name": "Tatarinow’s Sweet Flag",
+      "scientific_name": "Acorus tatarinowii",
+      "benefits": "Enhances memory, treats digestive disorders, and reduces anxiety.",
+      "habitat": "Wetlands, marshy areas, often near water bodies.",
+      "traditional_uses": "Widely used in Chinese medicine for mental health and digestive issues.",
+      "parts_used": "Rhizomes.",
+      "precautions": "High doses may cause nausea or dizziness.",
+      "description": "A perennial herb with aromatic rhizomes, it is commonly used in herbal medicine for its calming properties. Its roots are often processed into powders or extracts for improving memory and reducing anxiety. The plant thrives in wet conditions and is known for its pleasant fragrance."
+    },
+    "Agave americana": {
+      "common_name": "Century Plant",
+      "scientific_name": "Agave americana",
+      "benefits": "Used for wound healing, burns, and as a laxative.",
+      "habitat": "Arid and semi-arid regions, prefers sandy or rocky soil.",
+      "traditional_uses": "The sap is used for skin infections, while the leaves are used to make poultices.",
+      "parts_used": "Leaves, Sap.",
+      "precautions": "Can cause skin irritation; ingesting raw sap may upset the stomach.",
+      "description": "A large succulent plant with thick, spiny leaves, often grown for ornamental purposes. Its sap has been traditionally used to treat burns and wounds, while the leaves have been used for poultices. The plant can survive in harsh, arid climates and is a staple in many folk remedies."
+    },
+    "Ageratum conyzoides": {
+      "common_name": "Billy Goat Weed",
+      "scientific_name": "Ageratum conyzoides",
+      "benefits": "Used for treating wounds, fever, and inflammation.",
+      "habitat": "Warm tropical regions, found in fields and along roadsides.",
+      "traditional_uses": "Used in folk medicine to stop bleeding and treat skin infections.",
+      "parts_used": "Leaves, Stems.",
+      "precautions": "Excessive use may be toxic to the liver.",
+      "description": "A small herb with blue or purple flowers, known for its medicinal properties in treating wounds and infections. Its leaves contain compounds that help reduce inflammation and are often crushed to extract their juice for topical application."
+    },
+    "Allium ramosum": {
+      "common_name": "Fragrant Flowering Chive",
+      "scientific_name": "Allium ramosum",
+      "benefits": "Improves digestion, reduces inflammation, and enhances immunity.",
+      "habitat": "Temperate regions, often cultivated in gardens.",
+      "traditional_uses": "Used in traditional Chinese medicine for stomach and respiratory health.",
+      "parts_used": "Bulbs, Leaves.",
+      "precautions": "May cause mild stomach irritation if consumed in large amounts.",
+      "description": "A perennial herb with fragrant leaves and white flowers, commonly used in both culinary and medicinal applications. The plant is known for its rich nutritional profile and is often added to dishes for flavor as well as its digestive benefits."
+    },
+    "Alocasia macrorrhizos": {
+      "common_name": "Giant Taro",
+      "scientific_name": "Alocasia macrorrhizos",
+      "benefits": "Used for joint pain, skin conditions, and wound healing.",
+      "habitat": "Tropical regions, thrives in moist and shaded areas.",
+      "traditional_uses": "Roots and leaves are used in folk remedies to reduce inflammation and swelling.",
+      "parts_used": "Roots, Leaves.",
+      "precautions": "Raw parts are toxic; must be cooked properly before use.",
+      "description": "A tropical plant with large, heart-shaped leaves. The plant's roots and leaves are used in traditional medicine to create poultices for wounds and inflammations. It is also consumed as a food source after proper preparation to remove toxic compounds."
+    },
+    "Aloe vera": {
+      "common_name": "Aloe Vera",
+      "scientific_name": "Aloe barbadensis miller",
+      "benefits": "Promotes skin healing, soothes burns, and improves digestion.",
+      "habitat": "Arid and semi-arid regions.",
+      "traditional_uses": "Widely used in Ayurveda and traditional medicine for skin and hair care.",
+      "parts_used": "Leaves (Gel and Latex).",
+      "precautions": "Overuse of aloe latex may lead to digestive discomfort.",
+      "description": "A succulent plant with fleshy, serrated leaves, renowned for its versatile medicinal and cosmetic uses. The gel extracted from its leaves is widely used to soothe burns, hydrate skin, and treat minor cuts. Aloe latex, found just beneath the skin, has strong laxative properties."
+    },
+    
+        "Alpinia officinarum": {
+          "common_name": "Lesser Galangal",
+          "scientific_name": "Alpinia officinarum",
+          "benefits": "Improves digestion, relieves nausea, and reduces inflammation.",
+          "habitat": "Tropical and subtropical regions, often grown in moist, fertile soil.",
+          "traditional_uses": "Used in traditional Chinese medicine for digestive and respiratory ailments.",
+          "parts_used": "Rhizomes.",
+          "precautions": "Excessive use may irritate the stomach lining.",
+          "description": "A perennial herb with aromatic rhizomes, commonly used as a spice and in traditional medicine. Lesser galangal is prized for its warming properties and ability to ease digestive issues such as bloating and indigestion. Its sharp, citrus-like flavor also makes it a popular culinary ingredient."
+        },
+        "Amomum longiligulare": {
+          "common_name": "Cardamom",
+          "scientific_name": "Amomum longiligulare",
+          "benefits": "Aids digestion, reduces bad breath, and improves appetite.",
+          "habitat": "Humid, tropical climates, often cultivated in shaded forest areas.",
+          "traditional_uses": "Used in traditional medicine to treat indigestion and respiratory issues.",
+          "parts_used": "Seeds, Pods.",
+          "precautions": "May cause allergic reactions in sensitive individuals.",
+          "description": "A fragrant spice derived from the seeds of the cardamom plant, widely used in culinary and medicinal applications. Known for its aromatic properties, cardamom is a staple in traditional remedies for indigestion and sore throats. It is also used in teas and desserts for its distinct flavor."
+        },
+        "Ampelopsis cantoniensis": {
+          "common_name": "East Asian Creeper",
+          "scientific_name": "Ampelopsis cantoniensis",
+          "benefits": "Detoxifies the body, promotes liver health, and improves circulation.",
+          "habitat": "Tropical and subtropical regions, grows in forests and along riverbanks.",
+          "traditional_uses": "Used in Chinese medicine to treat liver disorders and fevers.",
+          "parts_used": "Leaves, Stems.",
+          "precautions": "Avoid excessive use as it may cause mild nausea.",
+          "description": "A climbing vine with small green leaves and medicinal properties, often used to detoxify the body and support liver health. The plant is also used to make herbal teas believed to reduce inflammation and improve circulation. Its use is prominent in East Asian traditional medicine."
+        },
+        "Andrographis paniculata": {
+          "common_name": "King of Bitters",
+          "scientific_name": "Andrographis paniculata",
+          "benefits": "Boosts immunity, treats colds, and reduces inflammation.",
+          "habitat": "Tropical Asia, prefers sunny areas with well-drained soil.",
+          "traditional_uses": "Widely used in Ayurveda and traditional Chinese medicine for fever and respiratory infections.",
+          "parts_used": "Leaves, Stems.",
+          "precautions": "May cause digestive upset if used in excess.",
+          "description": "A small herbaceous plant known for its intensely bitter taste and medicinal properties. Andrographis is commonly used in traditional medicine to boost immunity and combat cold symptoms. Its anti-inflammatory compounds make it a valuable remedy for infections and general wellness."
+        },
+        "Angelica dahurica": {
+          "common_name": "Chinese Angelica",
+          "scientific_name": "Angelica dahurica",
+          "benefits": "Relieves headaches, improves circulation, and reduces pain.",
+          "habitat": "Temperate regions, often found in grasslands and meadows.",
+          "traditional_uses": "Used in Chinese medicine to treat headaches, colds, and skin conditions.",
+          "parts_used": "Roots.",
+          "precautions": "Avoid prolonged use during pregnancy.",
+          "description": "A perennial herb with white flowers, valued for its aromatic roots. Angelica dahurica is a popular remedy in Chinese medicine for treating headaches, cold symptoms, and skin disorders. The root is often powdered or made into decoctions for its therapeutic effects."
+        },
+        "Ardisia sylvestris": {
+          "common_name": "Wild Ardisia",
+          "scientific_name": "Ardisia sylvestris",
+          "benefits": "Anti-inflammatory, promotes wound healing, and supports immune health.",
+          "habitat": "Tropical forests and shaded regions.",
+          "traditional_uses": "Used in traditional medicine for treating wounds and inflammation.",
+          "parts_used": "Leaves, Roots.",
+          "precautions": "Avoid excessive use to prevent gastrointestinal discomfort.",
+          "description": "A small evergreen shrub with glossy leaves and medicinal properties. Wild Ardisia is traditionally used to reduce inflammation and promote healing of wounds. Its leaves are often boiled to extract their active compounds, which are applied topically or consumed in teas."
+        },
+        "Artemisia vulgaris": {
+          "common_name": "Mugwort",
+          "scientific_name": "Artemisia vulgaris",
+          "benefits": "Relieves menstrual pain, aids digestion, and improves sleep.",
+          "habitat": "Temperate regions, often found along roadsides and grasslands.",
+          "traditional_uses": "Used in traditional medicine for menstrual disorders and digestive issues.",
+          "parts_used": "Leaves, Roots.",
+          "precautions": "Can cause allergic reactions; avoid during pregnancy.",
+          "description": "A hardy herb with feathery leaves and a strong aroma, mugwort has been used for centuries in traditional medicine. Its leaves are often dried and used in teas to promote digestion and relieve menstrual discomfort. The plant is also used in moxibustion therapy in traditional Chinese medicine."
+        },
+        "Artocarpus altilis": {
+          "common_name": "Breadfruit",
+          "scientific_name": "Artocarpus altilis",
+          "benefits": "Rich in nutrients, supports digestion, and boosts energy levels.",
+          "habitat": "Tropical regions, often cultivated in coastal areas.",
+          "traditional_uses": "The fruit and seeds are used for food, while the sap and bark are used in traditional remedies.",
+          "parts_used": "Fruits, Seeds, Bark.",
+          "precautions": "Overripe fruit may cause digestive discomfort.",
+          "description": "A tropical tree producing large, starchy fruits, breadfruit is both a staple food and a traditional remedy. The sap is used for skin ailments, while the bark is known for its wound-healing properties. The fruit is a rich source of carbohydrates, making it a valuable energy food."
+        },
+        "Artocarpus heterophyllus": {
+          "common_name": "Jackfruit",
+          "scientific_name": "Artocarpus heterophyllus",
+          "benefits": "Rich in antioxidants, promotes digestion, and supports heart health.",
+          "habitat": "Tropical and subtropical regions, thrives in well-drained soil.",
+          "traditional_uses": "Used in traditional medicine for its nutrient-rich seeds and anti-inflammatory properties.",
+          "parts_used": "Fruits, Seeds, Bark.",
+          "precautions": "Consumption of unripe fruit may cause stomach upset.",
+          "description": "A large tropical tree known for producing the world's largest tree-borne fruit. Jackfruit is rich in nutrients and has multiple uses in traditional medicine, including treating skin conditions and improving digestion. The seeds are boiled or roasted and consumed for their health benefits."
+        },
+        "Artocarpus lakoocha": {
+          "common_name": "Monkey Jack",
+          "scientific_name": "Artocarpus lakoocha",
+          "benefits": "Improves skin health, supports liver function, and boosts immunity.",
+          "habitat": "Tropical forests, often found in South and Southeast Asia.",
+          "traditional_uses": "Used in Ayurveda for treating liver disorders and skin diseases.",
+          "parts_used": "Fruits, Bark.",
+          "precautions": "Excessive use may cause mild nausea.",
+          "description": "A medium-sized tropical tree with rough bark and nutritious fruits, monkey jack is valued in traditional medicine for its ability to treat liver and skin conditions. The bark is often powdered and used in remedies for improving skin health and reducing inflammation."
+        },
+        
+          "Asparagus cochinchinensis": {
+            "common_name": "Chinese Asparagus",
+            "scientific_name": "Asparagus cochinchinensis",
+            "benefits": "Moistens lungs, relieves cough, and supports kidney health.",
+            "habitat": "Subtropical regions, often found in sandy or loamy soils.",
+            "traditional_uses": "Used in traditional Chinese medicine to treat dry coughs and lung issues.",
+            "parts_used": "Roots.",
+            "precautions": "May cause mild gastrointestinal discomfort if consumed in large amounts.",
+            "description": "A perennial climbing herb with fleshy roots, Chinese asparagus is widely used in traditional medicine for its lung-moistening and cough-relieving properties. The dried roots are often boiled into decoctions or powdered for medicinal purposes."
+          },
+          "Asparagus officinalis": {
+            "common_name": "Garden Asparagus",
+            "scientific_name": "Asparagus officinalis",
+            "benefits": "Rich in vitamins, improves digestion, and promotes kidney health.",
+            "habitat": "Temperate regions, cultivated in well-drained soils.",
+            "traditional_uses": "Used as a diuretic and to improve overall digestion in traditional remedies.",
+            "parts_used": "Shoots, Roots.",
+            "precautions": "Overconsumption may lead to a strong odor in urine due to asparagusic acid.",
+            "description": "A widely cultivated perennial vegetable known for its tender shoots. Garden asparagus is a rich source of vitamins A, C, and E. Its roots and shoots are used in herbal remedies to promote kidney health and improve digestion. Asparagus is also valued for its antioxidant properties."
+          },
+          "Averrhoa carambola": {
+            "common_name": "Starfruit",
+            "scientific_name": "Averrhoa carambola",
+            "benefits": "Rich in antioxidants, improves immunity, and promotes digestion.",
+            "habitat": "Tropical and subtropical regions, often found in orchards and gardens.",
+            "traditional_uses": "Used to treat fever, cough, and skin inflammation in traditional medicine.",
+            "parts_used": "Fruits, Leaves.",
+            "precautions": "Contains oxalic acid, which can be harmful to individuals with kidney disease.",
+            "description": "A tropical fruit-bearing tree known for its star-shaped fruits. Starfruit is highly nutritious and is commonly used to alleviate fever, soothe coughs, and treat inflammatory skin conditions. The fruit can be eaten fresh or used in juices, while the leaves are utilized in herbal remedies."
+          },
+          "Baccaurea sp": {
+            "common_name": "Baccaurea",
+            "scientific_name": "Baccaurea species",
+            "benefits": "Rich in vitamins, aids digestion, and promotes skin health.",
+            "habitat": "Tropical rainforests, thrives in humid climates.",
+            "traditional_uses": "Fruits are used in traditional remedies for stomach ailments.",
+            "parts_used": "Fruits.",
+            "precautions": "Overripe fruits may cause mild digestive issues.",
+            "description": "A genus of fruit-bearing trees native to Southeast Asia, Baccaurea species produce small, edible fruits with a sweet and tangy flavor. These fruits are rich in vitamins and antioxidants and are often consumed to aid digestion and promote skin health. The juicy fruits are also used in local cuisines."
+          },
+          "Barleria lupulina": {
+            "common_name": "Hophead Barleria",
+            "scientific_name": "Barleria lupulina",
+            "benefits": "Reduces inflammation, relieves pain, and treats skin conditions.",
+            "habitat": "Tropical regions, often found in grasslands and forest edges.",
+            "traditional_uses": "Used in traditional medicine to treat swelling, wounds, and insect bites.",
+            "parts_used": "Leaves, Stems.",
+            "precautions": "Avoid excessive use to prevent skin irritation.",
+            "description": "A small shrub with medicinal properties, Hophead Barleria is widely used in traditional remedies for its anti-inflammatory and pain-relieving effects. The leaves are crushed to make poultices for wounds, bites, and other skin conditions. The plant is also a popular natural remedy for joint pain."
+          },
+          "Bengal Arum": {
+            "common_name": "Bengal Arum",
+            "scientific_name": "Colocasia esculenta",
+            "benefits": "Rich in fiber, supports digestion, and boosts energy levels.",
+            "habitat": "Tropical wetlands and lowland areas.",
+            "traditional_uses": "Used in traditional medicine to treat constipation and improve appetite.",
+            "parts_used": "Corms, Leaves.",
+            "precautions": "Raw parts of the plant contain calcium oxalate crystals, which can irritate the throat.",
+            "description": "A tropical plant widely cultivated for its edible corms and leaves. Bengal Arum is a staple in many cuisines and is valued for its high nutritional content. The corms are often boiled or roasted, while the leaves are used in soups and curries. In traditional remedies, it is used to treat digestive issues."
+          },
+          "Berchemia lineata": {
+            "common_name": "Lineate Rhamnaceae",
+            "scientific_name": "Berchemia lineata",
+            "benefits": "Promotes circulation, supports liver health, and reduces inflammation.",
+            "habitat": "Dry and arid regions, often found in rocky areas.",
+            "traditional_uses": "Used in traditional medicine to treat joint pain and liver disorders.",
+            "parts_used": "Bark, Leaves.",
+            "precautions": "May cause mild nausea if consumed in excess.",
+            "description": "A woody shrub or small tree with medicinal properties, Berchemia lineata is traditionally used to improve blood circulation and reduce inflammation. Its bark and leaves are often boiled into decoctions for treating joint pain and supporting liver health."
+          },
+          "Bidens pilosa": {
+            "common_name": "Spanish Needle",
+            "scientific_name": "Bidens pilosa",
+            "benefits": "Supports immunity, promotes wound healing, and reduces inflammation.",
+            "habitat": "Tropical and subtropical regions, grows in disturbed areas and fields.",
+            "traditional_uses": "Used in traditional medicine for treating wounds, colds, and infections.",
+            "parts_used": "Leaves, Stems.",
+            "precautions": "May cause allergic reactions in sensitive individuals.",
+            "description": "A fast-growing herb with small, daisy-like flowers, Spanish Needle is valued for its wound-healing and anti-inflammatory properties. Its leaves and stems are used in poultices and teas to treat cuts, colds, and infections. The plant is also being researched for its potential immune-boosting properties."
+          },
+          "Bischofia trifoliata": {
+            "common_name": "Three-Leaved Bischofia",
+            "scientific_name": "Bischofia trifoliata",
+            "benefits": "Rich in antioxidants, supports digestive health, and reduces fever.",
+            "habitat": "Tropical forests, thrives in fertile soils.",
+            "traditional_uses": "Used in traditional medicine to reduce fever and treat digestive disorders.",
+            "parts_used": "Leaves, Bark.",
+            "precautions": "Avoid excessive consumption to prevent gastrointestinal irritation.",
+            "description": "A tropical tree with trifoliate leaves, Three-Leaved Bischofia is used in traditional remedies for its antioxidant and digestive properties. The leaves and bark are commonly made into decoctions or teas to treat fevers and improve gut health."
+          },
+          "Blackberry Lily": {
+            "common_name": "Blackberry Lily",
+            "scientific_name": "Iris domestica",
+            "benefits": "Supports respiratory health, relieves cough, and reduces inflammation.",
+            "habitat": "Temperate and subtropical regions, often found in open fields and gardens.",
+            "traditional_uses": "Used in traditional Chinese medicine to treat coughs and sore throats.",
+            "parts_used": "Roots, Seeds.",
+            "precautions": "Excessive use may cause mild digestive discomfort.",
+            "description": "A flowering plant with striking orange flowers and blackberry-like seeds, Blackberry Lily is widely used in traditional medicine for respiratory issues. The roots are often dried and powdered to create remedies for sore throats, coughs, and inflammation."
+          },
+          
+            "Blumea balsamifera": {
+              "common_name": "Sambong",
+              "scientific_name": "Blumea balsamifera",
+              "benefits": "Promotes kidney health, relieves colds, and acts as a diuretic.",
+              "habitat": "Tropical and subtropical regions, often found in grasslands and roadsides.",
+              "traditional_uses": "Used in herbal medicine for kidney stones, fevers, and respiratory issues.",
+              "parts_used": "Leaves.",
+              "precautions": "Prolonged use may cause mild gastrointestinal discomfort.",
+              "description": "A tropical herb commonly used in traditional medicine, Sambong is known for its diuretic properties. It is used to dissolve kidney stones and treat colds, coughs, and mild fevers. The leaves are often brewed into herbal teas or made into poultices for external applications."
+            },
+            "Boehmeria nivea": {
+              "common_name": "Chinese Grass",
+              "scientific_name": "Boehmeria nivea",
+              "benefits": "Rich in fiber, supports skin health, and promotes wound healing.",
+              "habitat": "Temperate and tropical regions, often cultivated for its fibers.",
+              "traditional_uses": "Used in traditional medicine for skin rashes and wounds.",
+              "parts_used": "Fibers, Leaves.",
+              "precautions": "Direct contact with raw fibers may cause skin irritation.",
+              "description": "A plant valued for its strong fibers used in textile production, Chinese Grass is also used in traditional remedies for treating skin irritations and wounds. Its fibers are eco-friendly alternatives for fabric manufacturing, while its leaves are applied to the skin to promote healing."
+            },
+            "Breynia vitis": {
+              "common_name": "Malaysian Grape",
+              "scientific_name": "Breynia vitis-idaea",
+              "benefits": "Rich in antioxidants, promotes digestion, and supports liver health.",
+              "habitat": "Tropical forests, often found as an understory shrub.",
+              "traditional_uses": "Used in traditional remedies for digestive and liver ailments.",
+              "parts_used": "Fruits, Leaves.",
+              "precautions": "Overconsumption of fruits may cause mild laxative effects.",
+              "description": "A small shrub producing berry-like fruits, Malaysian Grape is known for its antioxidant properties. Its fruits and leaves are used in herbal medicine to promote digestion and support liver function. The plant is also appreciated for its ornamental value."
+            },
+            "Caesalpinia sappan": {
+              "common_name": "Sappanwood",
+              "scientific_name": "Caesalpinia sappan",
+              "benefits": "Improves blood circulation, reduces inflammation, and supports skin health.",
+              "habitat": "Tropical and subtropical regions, often found in forested areas.",
+              "traditional_uses": "Used in traditional medicine to treat wounds, improve circulation, and reduce pain.",
+              "parts_used": "Wood, Bark.",
+              "precautions": "Excessive use may lead to mild allergic reactions.",
+              "description": "A tropical tree known for its reddish heartwood, Sappanwood is used to create natural dyes and medicinal remedies. Its decoctions are traditionally used to treat wounds, reduce pain, and improve circulation. The plant is also researched for its potential antimicrobial properties."
+            },
+            "Callerya speciosa": {
+              "common_name": "Climbing Milletia",
+              "scientific_name": "Callerya speciosa",
+              "benefits": "Promotes joint health, reduces inflammation, and improves vitality.",
+              "habitat": "Tropical regions, often found as a climbing vine.",
+              "traditional_uses": "Used in traditional medicine to treat joint pain and fatigue.",
+              "parts_used": "Roots, Stems.",
+              "precautions": "Avoid overuse to prevent potential toxicity.",
+              "description": "A climbing vine widely used in traditional medicine for its anti-inflammatory properties. The roots and stems are boiled into decoctions to treat joint pain, arthritis, and fatigue. It is also believed to improve overall vitality and energy."
+            },
+            "Callisia fragrans": {
+              "common_name": "Golden Basket",
+              "scientific_name": "Callisia fragrans",
+              "benefits": "Reduces inflammation, promotes wound healing, and supports immunity.",
+              "habitat": "Tropical and subtropical regions, often cultivated in gardens.",
+              "traditional_uses": "Used in traditional medicine for skin conditions and respiratory health.",
+              "parts_used": "Leaves, Stems.",
+              "precautions": "May cause allergic reactions in sensitive individuals.",
+              "description": "An ornamental plant known for its medicinal properties, Golden Basket is used in traditional remedies to treat skin issues and respiratory ailments. Its leaves are crushed to create poultices for wounds, while its extracts are consumed to boost immunity."
+            },
+            "Calophyllum inophyllum": {
+              "common_name": "Alexandrian Laurel",
+              "scientific_name": "Calophyllum inophyllum",
+              "benefits": "Promotes skin health, reduces inflammation, and relieves joint pain.",
+              "habitat": "Coastal regions, often found near beaches and riverbanks.",
+              "traditional_uses": "Used in traditional medicine for treating skin infections and joint pain.",
+              "parts_used": "Oil, Leaves, Bark.",
+              "precautions": "Avoid applying undiluted oil to sensitive skin areas.",
+              "description": "A coastal tree known for its medicinal oil, Alexandrian Laurel is used to treat skin conditions and relieve joint pain. The oil extracted from its seeds is highly valued for its anti-inflammatory and moisturizing properties. The plant is also used in traditional remedies for infections and wounds."
+            },
+            "Calotropis gigantea": {
+              "common_name": "Crown Flower",
+              "scientific_name": "Calotropis gigantea",
+              "benefits": "Supports respiratory health, reduces inflammation, and promotes wound healing.",
+              "habitat": "Tropical and arid regions, often found in open fields.",
+              "traditional_uses": "Used in traditional medicine for respiratory ailments and skin conditions.",
+              "parts_used": "Leaves, Roots, Latex.",
+              "precautions": "Latex can be toxic if ingested and may irritate the skin.",
+              "description": "A large shrub with distinctive purple flowers, Crown Flower is traditionally used to treat respiratory issues and skin conditions. Its latex and leaves are often applied to wounds, while its roots are used in decoctions for respiratory health. The plant is also used in religious ceremonies."
+            },
+            "Camellia chrysantha": {
+              "common_name": "Golden Camellia",
+              "scientific_name": "Camellia chrysantha",
+              "benefits": "Rich in antioxidants, supports cardiovascular health, and boosts immunity.",
+              "habitat": "Subtropical forests, often found at higher altitudes.",
+              "traditional_uses": "Used in traditional medicine to promote heart health and reduce fatigue.",
+              "parts_used": "Leaves, Flowers.",
+              "precautions": "Overconsumption may cause mild digestive discomfort.",
+              "description": "A rare and valuable plant known for its golden-yellow flowers, Golden Camellia is prized for its antioxidant properties. Its flowers and leaves are used to make teas that support heart health and boost immunity. The plant is also a symbol of prosperity and good luck."
+            },
+            "Caprifoliaceae": {
+              "common_name": "Honeysuckle Family",
+              "scientific_name": "Caprifoliaceae",
+              "benefits": "Supports respiratory health, reduces fever, and promotes detoxification.",
+              "habitat": "Temperate regions, often found in woodlands and gardens.",
+              "traditional_uses": "Used in traditional medicine for colds, fevers, and detoxification.",
+              "parts_used": "Flowers, Leaves.",
+              "precautions": "Avoid prolonged use to prevent mild allergic reactions.",
+              "description": "A family of flowering plants, including honeysuckles, known for their fragrant flowers and medicinal properties. Honeysuckle flowers are widely used in traditional medicine to treat colds, fevers, and inflammation. Their extracts are also believed to detoxify the body and improve respiratory health."
+            },
+            
+              "Capsicum annuum": {
+                "common_name": "Bell Pepper",
+                "scientific_name": "Capsicum annuum",
+                "benefits": "Rich in vitamin C, supports eye health, and boosts immunity.",
+                "habitat": "Cultivated worldwide in warm climates.",
+                "traditional_uses": "Used in diets to enhance nutrient intake and flavor.",
+                "parts_used": "Fruits.",
+                "precautions": "Excessive consumption may cause stomach discomfort.",
+                "description": "Capsicum annuum, commonly known as bell pepper or chili, is widely cultivated for its sweet or spicy fruits. The plant is a rich source of vitamins, especially vitamin C, and is used both in culinary and traditional medicine to support immunity and improve eye health."
+              },
+              "Carica papaya": {
+                "common_name": "Papaya",
+                "scientific_name": "Carica papaya",
+                "benefits": "Improves digestion, supports skin health, and boosts immunity.",
+                "habitat": "Tropical regions with well-drained soil.",
+                "traditional_uses": "Used to treat digestive issues, wounds, and skin conditions.",
+                "parts_used": "Fruits, Seeds, Leaves.",
+                "precautions": "Unripe fruits may cause allergic reactions in sensitive individuals.",
+                "description": "A tropical fruit tree, Papaya is known for its enzyme papain, which aids in digestion. The fruits are rich in vitamin A and C, while the leaves are used in traditional remedies for skin wounds and boosting platelet counts. The seeds have anti-parasitic properties."
+              },
+              "Catharanthus roseus": {
+                "common_name": "Madagascar Periwinkle",
+                "scientific_name": "Catharanthus roseus",
+                "benefits": "Contains alkaloids used in cancer treatment and supports wound healing.",
+                "habitat": "Tropical and subtropical regions, often found in gardens.",
+                "traditional_uses": "Used in Ayurveda for diabetes management and wound healing.",
+                "parts_used": "Leaves, Flowers, Roots.",
+                "precautions": "Toxic if consumed in large quantities.",
+                "description": "Madagascar Periwinkle is a tropical plant renowned for its medicinal properties. It is a source of alkaloids like vincristine and vinblastine, used in chemotherapy. Traditionally, it is used to manage diabetes, heal wounds, and treat mild infections."
+              },
+              "Celastrus hindsii": {
+                "common_name": "Climbing Bitter Sweet",
+                "scientific_name": "Celastrus hindsii",
+                "benefits": "Promotes joint health, reduces inflammation, and improves vitality.",
+                "habitat": "Tropical forests, often found as a climbing vine.",
+                "traditional_uses": "Used in traditional medicine for joint pain and improving energy.",
+                "parts_used": "Leaves, Stems.",
+                "precautions": "Excessive use may cause mild toxicity.",
+                "description": "A climbing vine commonly used in traditional remedies for its anti-inflammatory properties. It is often used to alleviate joint pain and arthritis. Decoctions from its leaves are believed to restore vitality and boost energy levels."
+              },
+              "Celosia argentea": {
+                "common_name": "Silver Cockscomb",
+                "scientific_name": "Celosia argentea",
+                "benefits": "Supports eye health, reduces inflammation, and aids digestion.",
+                "habitat": "Tropical and subtropical regions, often found in gardens.",
+                "traditional_uses": "Used to treat eye disorders, wounds, and digestive issues.",
+                "parts_used": "Leaves, Seeds.",
+                "precautions": "May cause mild allergic reactions if overused.",
+                "description": "A brightly colored flowering plant, Silver Cockscomb is valued for its medicinal and ornamental uses. Its leaves and seeds are traditionally used to treat eye conditions, wounds, and digestive problems. The plant is also rich in nutrients and is sometimes consumed as a vegetable."
+              },
+              "Centella asiatica": {
+                "common_name": "Gotu Kola",
+                "scientific_name": "Centella asiatica",
+                "benefits": "Improves brain function, promotes wound healing, and reduces anxiety.",
+                "habitat": "Tropical and subtropical regions, often found in wet areas.",
+                "traditional_uses": "Used in Ayurveda for cognitive enhancement and skin health.",
+                "parts_used": "Leaves, Stems.",
+                "precautions": "Excessive use may cause headaches or dizziness.",
+                "description": "Gotu Kola is a versatile herb widely used in traditional medicine for its ability to improve cognitive function, promote wound healing, and reduce anxiety. The plant is consumed as tea, capsules, or fresh leaves and is believed to rejuvenate the body and mind."
+              },
+              "Citrus aurantifolia": {
+                "common_name": "Lime",
+                "scientific_name": "Citrus aurantifolia",
+                "benefits": "Rich in vitamin C, supports immunity, and aids digestion.",
+                "habitat": "Tropical and subtropical regions, often cultivated.",
+                "traditional_uses": "Used in detox remedies, skin care, and as a flavor enhancer.",
+                "parts_used": "Fruits, Peels.",
+                "precautions": "Direct application to skin may cause irritation when exposed to sunlight.",
+                "description": "Lime is a citrus fruit known for its tangy flavor and health benefits. It is widely used in detox drinks, skin care products, and traditional medicine to boost immunity and improve digestion. Its peel is rich in essential oils and antioxidants."
+              },
+              "Citrus hystrix": {
+                "common_name": "Kaffir Lime",
+                "scientific_name": "Citrus hystrix",
+                "benefits": "Supports respiratory health, reduces inflammation, and aids digestion.",
+                "habitat": "Tropical regions, often grown in gardens.",
+                "traditional_uses": "Used in traditional remedies for colds, coughs, and digestive issues.",
+                "parts_used": "Leaves, Fruits.",
+                "precautions": "Overconsumption may cause stomach discomfort.",
+                "description": "Kaffir Lime is a tropical fruit known for its aromatic leaves and tangy fruits. The leaves are often used in culinary dishes and herbal teas to treat colds, coughs, and digestive problems. The fruit is also used to make traditional cleaning solutions."
+              },
+              "Clausena indica": {
+                "common_name": "Indian Clausena",
+                "scientific_name": "Clausena indica",
+                "benefits": "Promotes digestion, supports liver health, and boosts immunity.",
+                "habitat": "Tropical and subtropical forests.",
+                "traditional_uses": "Used in traditional remedies for digestive and liver issues.",
+                "parts_used": "Leaves, Bark.",
+                "precautions": "Overuse may cause mild toxicity.",
+                "description": "Indian Clausena is a tropical plant used in traditional medicine for its digestive and liver-supporting properties. The leaves and bark are boiled into decoctions to treat stomach ailments and improve immunity. It is also known for its aromatic qualities."
+              },
+              "Cleistocalyx operculatus": {
+                "common_name": "Vietnamese Black Tea Tree",
+                "scientific_name": "Cleistocalyx operculatus",
+                "benefits": "Supports dental health, reduces inflammation, and improves digestion.",
+                "habitat": "Tropical regions, often found near water bodies.",
+                "traditional_uses": "Used in traditional medicine for dental care and digestive health.",
+                "parts_used": "Leaves, Bark.",
+                "precautions": "May cause mild allergic reactions in sensitive individuals.",
+                "description": "A tropical tree known for its use in traditional herbal teas, the Vietnamese Black Tea Tree is prized for its ability to improve dental health and digestion. Its leaves and bark are often used in decoctions to treat inflammation and oral infections."
+              },
+              
+                "Clerodendrum inerme": {
+                  "common_name": "Seaside Clerodendrum",
+                  "scientific_name": "Clerodendrum inerme",
+                  "benefits": "Supports skin health, reduces inflammation, and promotes wound healing.",
+                  "habitat": "Coastal regions, mangroves, and sandy soils.",
+                  "traditional_uses": "Used in traditional medicine for skin conditions and insect bites.",
+                  "parts_used": "Leaves, Bark.",
+                  "precautions": "May cause skin irritation if not properly processed.",
+                  "description": "A hardy shrub found in coastal regions, Clerodendrum inerme is valued for its medicinal properties. Its leaves and bark are used in poultices to treat skin ailments and insect bites, as well as to reduce inflammation. The plant is also popular as an ornamental hedge."
+                },
+                "Clinacanthus nutans": {
+                  "common_name": "Snake Grass",
+                  "scientific_name": "Clinacanthus nutans",
+                  "benefits": "Reduces inflammation, supports immune health, and treats skin conditions.",
+                  "habitat": "Tropical regions, often found in home gardens.",
+                  "traditional_uses": "Used for treating snake bites, herpes, and skin irritations.",
+                  "parts_used": "Leaves, Stems.",
+                  "precautions": "Overuse may cause mild allergic reactions.",
+                  "description": "Clinacanthus nutans, commonly known as Snake Grass, is widely used in traditional medicine to treat snake bites, herpes, and skin issues. Its anti-inflammatory and antiviral properties make it a popular choice for home remedies in Southeast Asia."
+                },
+                "Glycyrrhiza uralensis": {
+                  "common_name": "Chinese Licorice",
+                  "scientific_name": "Glycyrrhiza uralensis",
+                  "benefits": "Soothes sore throats, reduces inflammation, and boosts immune function.",
+                  "habitat": "Temperate regions, often found in grasslands.",
+                  "traditional_uses": "Used in herbal teas for respiratory and digestive health.",
+                  "parts_used": "Roots.",
+                  "precautions": "Excessive consumption may cause high blood pressure or potassium depletion.",
+                  "description": "Chinese Licorice is a versatile herb used in traditional Chinese medicine. Its roots contain glycyrrhizin, a compound that soothes sore throats and boosts the immune system. The plant is also used to flavor teas and treat respiratory conditions."
+                },
+                "Coix lacryma-jobi": {
+                  "common_name": "Job's Tears",
+                  "scientific_name": "Coix lacryma-jobi",
+                  "benefits": "Promotes digestion, reduces inflammation, and supports joint health.",
+                  "habitat": "Tropical and subtropical regions, often found near water bodies.",
+                  "traditional_uses": "Used in soups and herbal remedies for arthritis and digestion.",
+                  "parts_used": "Seeds.",
+                  "precautions": "Not recommended for pregnant women due to potential uterine stimulation.",
+                  "description": "Job's Tears is a grain-producing plant valued for its medicinal and culinary uses. The seeds are used in soups and herbal remedies to alleviate arthritis pain, improve digestion, and reduce inflammation. The plant is also cultivated for ornamental purposes."
+                },
+                "Cordyline fruticosa": {
+                  "common_name": "Ti Plant",
+                  "scientific_name": "Cordyline fruticosa",
+                  "benefits": "Used for its ornamental value, as well as traditional healing for wounds and fevers.",
+                  "habitat": "Tropical and subtropical regions, often grown as an ornamental plant.",
+                  "traditional_uses": "Leaves are used as wraps for herbal medicines and in traditional rituals.",
+                  "parts_used": "Leaves, Roots.",
+                  "precautions": "None known when used externally; avoid ingestion.",
+                  "description": "The Ti Plant is a tropical plant often grown for its vibrant foliage. In traditional medicine, its leaves are used as wraps for herbal poultices to treat wounds and fevers. The plant also holds cultural significance in Polynesian rituals."
+                },
+                "Costus speciosus": {
+                  "common_name": "Crepe Ginger",
+                  "scientific_name": "Costus speciosus",
+                  "benefits": "Supports digestion, reduces inflammation, and improves respiratory health.",
+                  "habitat": "Tropical regions, often found in forested areas.",
+                  "traditional_uses": "Used for treating fevers, digestive issues, and respiratory ailments.",
+                  "parts_used": "Rhizomes, Leaves.",
+                  "precautions": "Excessive consumption may cause mild gastrointestinal discomfort.",
+                  "description": "Crepe Ginger is a tropical herb known for its medicinal and ornamental uses. Its rhizomes are used in traditional medicine to treat fevers, digestive problems, and respiratory issues. The plant is also popular for its unique, spiral-shaped flowers."
+                },
+                "Crescentia cujete": {
+                  "common_name": "Calabash Tree",
+                  "scientific_name": "Crescentia cujete",
+                  "benefits": "Supports respiratory health, reduces inflammation, and treats fevers.",
+                  "habitat": "Tropical regions, often found in open areas.",
+                  "traditional_uses": "Fruits are used as containers; decoctions are used for respiratory issues.",
+                  "parts_used": "Fruits, Leaves.",
+                  "precautions": "Raw fruit pulp may cause stomach upset.",
+                  "description": "The Calabash Tree is a tropical plant known for its hard-shelled fruits, often used as containers. In traditional medicine, decoctions from its fruits and leaves are used to treat respiratory issues, inflammation, and fevers. The plant is also culturally significant in many regions."
+                },
+                "Crinum asiaticum": {
+                  "common_name": "Asiatic Crinum Lily",
+                  "scientific_name": "Crinum asiaticum",
+                  "benefits": "Reduces pain, supports skin health, and promotes wound healing.",
+                  "habitat": "Tropical regions, often found near water bodies.",
+                  "traditional_uses": "Used in poultices for wounds and as a pain reliever.",
+                  "parts_used": "Bulbs, Leaves.",
+                  "precautions": "May cause skin irritation if used improperly.",
+                  "description": "Asiatic Crinum Lily is a tropical plant known for its medicinal properties. Its bulbs and leaves are used in traditional poultices to treat wounds and alleviate pain. The plant is also valued for its large, fragrant flowers."
+                },
+                "Crinum latifolium": {
+                  "common_name": "Queen Lily",
+                  "scientific_name": "Crinum latifolium",
+                  "benefits": "Supports hormonal balance, reduces inflammation, and promotes respiratory health.",
+                  "habitat": "Tropical regions, often cultivated in gardens.",
+                  "traditional_uses": "Used in traditional remedies for hormonal and respiratory conditions.",
+                  "parts_used": "Leaves, Bulbs.",
+                  "precautions": "May cause mild toxicity if consumed in large quantities.",
+                  "description": "Queen Lily is a medicinal plant traditionally used to support hormonal balance and treat respiratory issues. Its leaves and bulbs are prepared as teas or poultices to reduce inflammation and promote overall health. The plant is also known for its ornamental value."
+                },
+                "Croton oblongifolius": {
+                  "common_name": "Croton",
+                  "scientific_name": "Croton oblongifolius",
+                  "benefits": "Promotes skin health, reduces inflammation, and aids in detoxification.",
+                  "habitat": "Tropical forests, often found in shaded areas.",
+                  "traditional_uses": "Used to treat skin ailments and detoxify the body.",
+                  "parts_used": "Leaves, Bark.",
+                  "precautions": "Toxic if ingested; external use only.",
+                  "description": "Croton oblongifolius is a tropical plant known for its vibrant foliage and medicinal uses. Its leaves and bark are used in traditional remedies to treat skin conditions and support detoxification. The plant is toxic if ingested and is primarily used externally."
+                },
+                
+                  "Croton tonkinensis": {
+                    "common_name": "Tonkin Croton",
+                    "scientific_name": "Croton tonkinensis",
+                    "benefits": "Supports detoxification, improves digestion, and reduces inflammation.",
+                    "habitat": "Tropical forests, commonly found in Southeast Asia.",
+                    "traditional_uses": "Used in herbal teas to improve liver health and digestion.",
+                    "parts_used": "Leaves, Bark.",
+                    "precautions": "May cause mild irritation if consumed in large amounts.",
+                    "description": "Tonkin Croton is a tropical plant known for its detoxifying and digestive properties. Traditionally used in herbal teas, it helps cleanse the liver and reduce inflammation. The plant thrives in shaded, tropical environments."
+                  },
+                  "Curculigo gracilis": {
+                    "common_name": "Grass Lily",
+                    "scientific_name": "Curculigo gracilis",
+                    "benefits": "Boosts stamina, reduces inflammation, and supports kidney health.",
+                    "habitat": "Tropical and subtropical regions, often found in grasslands.",
+                    "traditional_uses": "Used as a tonic for stamina and kidney health in traditional medicine.",
+                    "parts_used": "Rhizomes.",
+                    "precautions": "Prolonged use may cause mild gastrointestinal discomfort.",
+                    "description": "Grass Lily is a tropical herb known for its rhizomes, which are used as a tonic to enhance stamina and support kidney health. Its anti-inflammatory properties make it a popular ingredient in traditional remedies."
+                  },
+                  "Curculigo orchioides": {
+                    "common_name": "Golden Eye Grass",
+                    "scientific_name": "Curculigo orchioides",
+                    "benefits": "Enhances vitality, supports reproductive health, and boosts immunity.",
+                    "habitat": "Shaded areas in tropical forests.",
+                    "traditional_uses": "Used in Ayurveda to treat infertility and improve overall vitality.",
+                    "parts_used": "Rhizomes.",
+                    "precautions": "Not recommended for prolonged use without medical supervision.",
+                    "description": "Golden Eye Grass is a medicinal plant widely used in Ayurveda for its rejuvenating properties. The rhizomes are used to treat reproductive health issues, boost immunity, and improve vitality. The plant grows well in shaded, forested areas."
+                  },
+                  "Cymbopogon": {
+                    "common_name": "Lemongrass",
+                    "scientific_name": "Cymbopogon citratus",
+                    "benefits": "Promotes relaxation, improves digestion, and reduces inflammation.",
+                    "habitat": "Tropical and subtropical regions, often cultivated in home gardens.",
+                    "traditional_uses": "Used in teas and essential oils for relaxation and digestive health.",
+                    "parts_used": "Leaves, Stems.",
+                    "precautions": "Excessive consumption may cause dizziness or allergic reactions.",
+                    "description": "Lemongrass is a popular herb known for its refreshing aroma and numerous health benefits. It is commonly used in teas, essential oils, and culinary dishes to promote relaxation, improve digestion, and reduce inflammation."
+                  },
+                  "Datura metel": {
+                    "common_name": "Angel's Trumpet",
+                    "scientific_name": "Datura metel",
+                    "benefits": "Alleviates pain, supports respiratory health, and reduces inflammation.",
+                    "habitat": "Tropical and subtropical regions, often found in disturbed areas.",
+                    "traditional_uses": "Used in traditional medicine for pain relief and asthma.",
+                    "parts_used": "Leaves, Seeds.",
+                    "precautions": "Highly toxic; should only be used under professional guidance.",
+                    "description": "Angel's Trumpet is a tropical plant known for its medicinal properties and striking flowers. Its leaves and seeds are used in traditional remedies for pain relief and respiratory issues. However, the plant is highly toxic and should be handled with care."
+                  },
+                  "Derris elliptica": {
+                    "common_name": "Tuba Plant",
+                    "scientific_name": "Derris elliptica",
+                    "benefits": "Used as a natural insecticide and for medicinal purposes.",
+                    "habitat": "Tropical regions, often found near water bodies.",
+                    "traditional_uses": "Roots are used as a natural pesticide and in fish stunning.",
+                    "parts_used": "Roots.",
+                    "precautions": "Toxic to fish and other aquatic life; avoid excessive use.",
+                    "description": "The Tuba Plant is widely known for its roots, which are used as a natural insecticide and in traditional fishing practices. It thrives in tropical climates and has limited medicinal applications due to its toxicity."
+                  },
+                  "Dianella ensifolia": {
+                    "common_name": "Umbrella Dracaena",
+                    "scientific_name": "Dianella ensifolia",
+                    "benefits": "Reduces inflammation, supports wound healing, and improves skin health.",
+                    "habitat": "Tropical and subtropical forests, often found in shaded areas.",
+                    "traditional_uses": "Leaves are used in poultices for wound healing and skin conditions.",
+                    "parts_used": "Leaves, Rhizomes.",
+                    "precautions": "Avoid ingestion; primarily used externally.",
+                    "description": "Umbrella Dracaena is a hardy plant known for its medicinal properties. Its leaves and rhizomes are used in traditional poultices to treat wounds and improve skin health. The plant is often found in forested areas with ample shade."
+                  },
+                  "Dicliptera chinensis": {
+                    "common_name": "Chinese Dicliptera",
+                    "scientific_name": "Dicliptera chinensis",
+                    "benefits": "Reduces fever, supports respiratory health, and alleviates inflammation.",
+                    "habitat": "Tropical and subtropical regions, often in grasslands.",
+                    "traditional_uses": "Used in herbal teas for fevers and respiratory conditions.",
+                    "parts_used": "Leaves.",
+                    "precautions": "Prolonged use may cause mild gastrointestinal discomfort.",
+                    "description": "Chinese Dicliptera is a tropical plant traditionally used to treat fevers and respiratory ailments. Its leaves are brewed into herbal teas and are known for their anti-inflammatory properties. The plant thrives in open grasslands and subtropical environments."
+                  },
+                  "Dimocarpus longan": {
+                    "common_name": "Longan",
+                    "scientific_name": "Dimocarpus longan",
+                    "benefits": "Boosts energy, improves skin health, and supports immune function.",
+                    "habitat": "Tropical and subtropical regions, often cultivated in orchards.",
+                    "traditional_uses": "Used in teas and soups for its rejuvenating properties.",
+                    "parts_used": "Fruits, Seeds.",
+                    "precautions": "Excessive consumption may lead to weight gain due to high sugar content.",
+                    "description": "Longan is a tropical fruit known for its sweet flavor and medicinal properties. Traditionally used in teas and soups, it helps boost energy, improve skin health, and support the immune system. The plant is widely cultivated in tropical regions."
+                  },
+                  "Dioscorea persimilis": {
+                    "common_name": "Chinese Yam",
+                    "scientific_name": "Dioscorea persimilis",
+                    "benefits": "Supports digestive health, boosts energy, and improves respiratory function.",
+                    "habitat": "Temperate and tropical regions, often found in forested areas.",
+                    "traditional_uses": "Used in soups and stews to improve digestion and energy.",
+                    "parts_used": "Tubers.",
+                    "precautions": "May cause mild allergic reactions in sensitive individuals.",
+                    "description": "Chinese Yam is a versatile tuber used in traditional medicine and cooking. Known for its ability to improve digestion and boost energy, it is often included in soups and stews. The plant grows well in both temperate and tropical climates."
+                  },
+                  
+                    "Eichhornia crassipes": {
+                      "common_name": "Water Hyacinth",
+                      "scientific_name": "Eichhornia crassipes",
+                      "benefits": "Removes heavy metals from water, provides biofuel, and aids in waste management.",
+                      "habitat": "Freshwater ponds, lakes, and rivers.",
+                      "traditional_uses": "Used in traditional practices for its water purification abilities.",
+                      "parts_used": "Whole plant.",
+                      "precautions": "Highly invasive and can disrupt aquatic ecosystems.",
+                      "description": "Water Hyacinth is a fast-growing aquatic plant known for its ability to purify water by removing heavy metals and toxins. Despite its benefits, it is considered invasive and needs careful management to prevent ecosystem damage."
+                    },
+                    "Eleutherine bulbosa": {
+                      "common_name": "Bawang Dayak",
+                      "scientific_name": "Eleutherine bulbosa",
+                      "benefits": "Supports immune health, lowers blood sugar, and improves skin conditions.",
+                      "habitat": "Tropical regions, often found in well-drained soils.",
+                      "traditional_uses": "Used in herbal teas to manage diabetes and enhance skin health.",
+                      "parts_used": "Bulbs, Leaves.",
+                      "precautions": "May cause mild allergic reactions in sensitive individuals.",
+                      "description": "Eleutherine bulbosa, commonly known as Bawang Dayak, is a medicinal herb used for its immune-boosting and anti-diabetic properties. The bulbs are rich in antioxidants and are widely used in traditional medicine for improving skin health."
+                    },
+                    "Erythrina variegata": {
+                      "common_name": "Indian Coral Tree",
+                      "scientific_name": "Erythrina variegata",
+                      "benefits": "Reduces inflammation, supports liver health, and improves sleep.",
+                      "habitat": "Tropical and subtropical regions, commonly found near coasts.",
+                      "traditional_uses": "Used in traditional medicine for pain relief and treating liver disorders.",
+                      "parts_used": "Bark, Leaves, Seeds.",
+                      "precautions": "Seeds are toxic if consumed in large quantities.",
+                      "description": "The Indian Coral Tree is a tropical plant known for its vibrant flowers and medicinal properties. It is traditionally used to treat liver conditions, reduce inflammation, and promote restful sleep."
+                    },
+                    "Eupatorium fortunei": {
+                      "common_name": "Fortune's Eupatorium",
+                      "scientific_name": "Eupatorium fortunei",
+                      "benefits": "Supports respiratory health, improves digestion, and reduces fever.",
+                      "habitat": "Hilly regions with well-drained soils.",
+                      "traditional_uses": "Used in herbal medicine for colds and digestive issues.",
+                      "parts_used": "Leaves, Stems.",
+                      "precautions": "Avoid use during pregnancy or lactation.",
+                      "description": "Fortune's Eupatorium is a medicinal herb traditionally used to alleviate respiratory problems and digestive disorders. It is also known for its febrifuge properties, helping to reduce fevers naturally."
+                    },
+                    "Euphorbia hirta": {
+                      "common_name": "Asthma Plant",
+                      "scientific_name": "Euphorbia hirta",
+                      "benefits": "Alleviates asthma symptoms, treats skin conditions, and supports urinary health.",
+                      "habitat": "Open grassy areas in tropical and subtropical regions.",
+                      "traditional_uses": "Used in traditional medicine for asthma, skin disorders, and urinary issues.",
+                      "parts_used": "Leaves, Stems.",
+                      "precautions": "May cause gastrointestinal discomfort if consumed excessively.",
+                      "description": "The Asthma Plant is a versatile herb used in traditional remedies for respiratory conditions, particularly asthma. It is also applied topically to treat skin ailments and is known for its diuretic properties."
+                    },
+                    "Euphorbia pulcherrima": {
+                      "common_name": "Poinsettia",
+                      "scientific_name": "Euphorbia pulcherrima",
+                      "benefits": "Traditionally used as a decorative plant; minor medicinal uses for skin and digestive health.",
+                      "habitat": "Native to Central America, cultivated worldwide.",
+                      "traditional_uses": "Used in folk medicine for minor skin conditions and digestive issues.",
+                      "parts_used": "Sap.",
+                      "precautions": "Sap may cause skin irritation or allergic reactions.",
+                      "description": "Poinsettia is best known as an ornamental plant with bright red leaves. Its sap is occasionally used in traditional remedies, though care is needed due to its potential for causing skin irritation."
+                    },
+                    "Euphorbia tirucalli": {
+                      "common_name": "Pencil Tree",
+                      "scientific_name": "Euphorbia tirucalli",
+                      "benefits": "Used in traditional medicine for wound healing and pain relief.",
+                      "habitat": "Dry regions, often found in arid and semi-arid climates.",
+                      "traditional_uses": "Applied as a poultice for wounds and inflammation.",
+                      "parts_used": "Sap, Stems.",
+                      "precautions": "Highly toxic; avoid ingestion or contact with eyes.",
+                      "description": "The Pencil Tree is a drought-tolerant plant used in traditional medicine for its wound-healing and anti-inflammatory properties. Its sap is highly toxic and should be handled with care."
+                    },
+                    "Euphorbia tithymaloides": {
+                      "common_name": "Devil's Backbone",
+                      "scientific_name": "Euphorbia tithymaloides",
+                      "benefits": "Treats skin infections, supports respiratory health, and reduces inflammation.",
+                      "habitat": "Tropical and subtropical regions.",
+                      "traditional_uses": "Used in folk medicine for skin and respiratory conditions.",
+                      "parts_used": "Leaves, Stems.",
+                      "precautions": "Sap can cause irritation and should not be ingested.",
+                      "description": "Devil's Backbone is a unique-looking plant traditionally used for treating skin infections and respiratory ailments. Its milky sap, though beneficial, must be used with caution due to its irritant properties."
+                    },
+                    "Eurycoma longifolia": {
+                      "common_name": "Tongkat Ali",
+                      "scientific_name": "Eurycoma longifolia",
+                      "benefits": "Enhances male fertility, boosts energy, and reduces stress.",
+                      "habitat": "Tropical rainforests of Southeast Asia.",
+                      "traditional_uses": "Used as an aphrodisiac and energy booster in traditional medicine.",
+                      "parts_used": "Roots.",
+                      "precautions": "Overuse may cause mild insomnia or restlessness.",
+                      "description": "Tongkat Ali is a renowned herbal remedy in Southeast Asia for its aphrodisiac and energy-boosting properties. The roots are the most potent part, often used in herbal supplements and traditional tonics."
+                    },
+                    "Excoecaria cochinchinensis": {
+                      "common_name": "Chinese Croton",
+                      "scientific_name": "Excoecaria cochinchinensis",
+                      "benefits": "Used for wound healing, anti-inflammatory effects, and skin conditions.",
+                      "habitat": "Tropical forests in Southeast Asia.",
+                      "traditional_uses": "Leaves are applied to wounds to promote healing.",
+                      "parts_used": "Leaves, Bark.",
+                      "precautions": "Sap can cause severe skin irritation or blindness if it comes into contact with eyes.",
+                      "description": "Chinese Croton is a medicinal plant with bright, variegated leaves. It is traditionally used to treat wounds and reduce inflammation, though its sap is highly irritant and must be handled cautiously."
+                    },
+                    
+                      "Excoecaria sp": {
+                        "common_name": "Blindness Tree",
+                        "scientific_name": "Excoecaria sp",
+                        "benefits": "Used for skin infections, wound healing, and anti-inflammatory purposes.",
+                        "habitat": "Tropical regions, often found near mangroves and forests.",
+                        "traditional_uses": "Applied to wounds and infections in folk medicine.",
+                        "parts_used": "Leaves, Bark.",
+                        "precautions": "Highly toxic; sap can cause temporary blindness and severe skin irritation.",
+                        "description": "Excoecaria sp is commonly known for its sap, which is both medicinal and toxic. It has been traditionally used for treating wounds and skin infections but must be handled with extreme care due to its irritant properties."
+                      },
+                      "Fallopia multiflora": {
+                        "common_name": "Fo-Ti",
+                        "scientific_name": "Fallopia multiflora",
+                        "benefits": "Promotes hair growth, supports liver health, and boosts energy.",
+                        "habitat": "Hilly regions and forested areas in Asia.",
+                        "traditional_uses": "Used in traditional Chinese medicine for anti-aging and hair rejuvenation.",
+                        "parts_used": "Roots.",
+                        "precautions": "May cause mild gastrointestinal discomfort in some people.",
+                        "description": "Fo-Ti, or He Shou Wu, is a popular herb in traditional Chinese medicine known for its anti-aging and rejuvenating properties. It is often used in tonics to promote hair health and vitality."
+                      },
+                      "Ficus auriculata": {
+                        "common_name": "Elephant Ear Fig",
+                        "scientific_name": "Ficus auriculata",
+                        "benefits": "Aids in digestion, improves skin health, and regulates blood sugar.",
+                        "habitat": "Subtropical and tropical forests.",
+                        "traditional_uses": "Fruits and leaves are used for digestive issues and skin conditions.",
+                        "parts_used": "Fruits, Leaves.",
+                        "precautions": "Overconsumption of fruits may lead to mild laxative effects.",
+                        "description": "Elephant Ear Fig is a tropical plant valued for its large edible fruits and medicinal properties. The leaves and fruits are often used in herbal remedies to treat digestive and skin problems."
+                      },
+                      "Ficus racemosa": {
+                        "common_name": "Cluster Fig",
+                        "scientific_name": "Ficus racemosa",
+                        "benefits": "Treats ulcers, supports liver health, and reduces inflammation.",
+                        "habitat": "Tropical regions, often found near rivers and wetlands.",
+                        "traditional_uses": "Used in Ayurveda for treating ulcers, diabetes, and liver conditions.",
+                        "parts_used": "Fruits, Bark, Leaves.",
+                        "precautions": "May cause mild allergic reactions in sensitive individuals.",
+                        "description": "The Cluster Fig tree is a significant plant in Ayurvedic medicine, used for treating a variety of ailments including ulcers, liver disorders, and inflammation. Its bark and fruits are especially valued for their medicinal properties."
+                      },
+                      "Fructus lycii": {
+                        "common_name": "Goji Berry",
+                        "scientific_name": "Lycium barbarum",
+                        "benefits": "Boosts immunity, improves vision, and supports skin health.",
+                        "habitat": "Temperate regions, especially in Asia.",
+                        "traditional_uses": "Used in soups and teas to promote longevity and health.",
+                        "parts_used": "Fruits.",
+                        "precautions": "May interact with blood-thinning medications.",
+                        "description": "Goji Berries, also known as Wolfberries, are a superfood with numerous health benefits. They are rich in antioxidants and are commonly used in traditional Chinese medicine to improve vision and immunity."
+                      },
+                      "Glochidion eriocarpum": {
+                        "common_name": "Hairy Melon Tree",
+                        "scientific_name": "Glochidion eriocarpum",
+                        "benefits": "Used for its anti-inflammatory and wound-healing properties.",
+                        "habitat": "Tropical and subtropical forests.",
+                        "traditional_uses": "Applied to wounds and used in traditional remedies for pain relief.",
+                        "parts_used": "Leaves, Bark.",
+                        "precautions": "Limited research on its long-term effects.",
+                        "description": "Glochidion eriocarpum is a medicinal plant known for its wound-healing and anti-inflammatory properties. It is often used in traditional remedies for treating skin infections and minor injuries."
+                      },
+                      "Glycosmis pentaphylla": {
+                        "common_name": "Orange Berry",
+                        "scientific_name": "Glycosmis pentaphylla",
+                        "benefits": "Supports digestive health, treats fevers, and acts as a mild sedative.",
+                        "habitat": "Tropical and subtropical regions.",
+                        "traditional_uses": "Leaves and berries are used in herbal teas for fevers and digestion.",
+                        "parts_used": "Leaves, Berries.",
+                        "precautions": "Overconsumption may cause drowsiness.",
+                        "description": "Orange Berry is a small shrub known for its medicinal berries and leaves. It is traditionally used to treat fevers and improve digestion, with mild sedative effects."
+                      },
+                      "Gonocaryum lobbianum": {
+                        "common_name": "Lobb's Gonocaryum",
+                        "scientific_name": "Gonocaryum lobbianum",
+                        "benefits": "Used for anti-inflammatory and pain relief purposes.",
+                        "habitat": "Rainforests of Southeast Asia.",
+                        "traditional_uses": "Applied as a poultice for inflammation and pain.",
+                        "parts_used": "Bark, Leaves.",
+                        "precautions": "Rarely studied; use with caution.",
+                        "description": "Lobb's Gonocaryum is a lesser-known medicinal plant used in Southeast Asian folk medicine. It is applied topically to reduce inflammation and provide pain relief."
+                      },
+                      "Gymnema sylvestre": {
+                        "common_name": "Gymnema",
+                        "scientific_name": "Gymnema sylvestre",
+                        "benefits": "Reduces blood sugar, supports weight loss, and suppresses sweet cravings.",
+                        "habitat": "Tropical forests of India and Africa.",
+                        "traditional_uses": "Used in Ayurveda to treat diabetes and promote weight management.",
+                        "parts_used": "Leaves.",
+                        "precautions": "May cause hypoglycemia if combined with diabetes medications.",
+                        "description": "Gymnema is a powerful herb used in traditional medicine to manage diabetes and support weight loss. Its unique property of suppressing sweet taste makes it effective in reducing sugar cravings."
+                      },
+                      "Gynura divaricata": {
+                        "common_name": "Longevity Spinach",
+                        "scientific_name": "Gynura divaricata",
+                        "benefits": "Lowers blood sugar, improves digestion, and supports cardiovascular health.",
+                        "habitat": "Tropical and subtropical regions.",
+                        "traditional_uses": "Used in herbal teas for diabetes and digestive health.",
+                        "parts_used": "Leaves, Stems.",
+                        "precautions": "Excessive use may cause mild stomach upset.",
+                        "description": "Longevity Spinach is a medicinal herb known for its blood sugar-lowering and heart-supporting properties. It is often consumed as a tea or vegetable in traditional remedies."
+                      },
+                      "Hemerocallis fulva": {
+                        "common_name": "Orange Daylily",
+                        "scientific_name": "Hemerocallis fulva",
+                        "benefits": "Treats insomnia, supports liver health, and reduces swelling.",
+                        "habitat": "Temperate regions, often found near wetlands.",
+                        "traditional_uses": "Used in traditional Chinese medicine for liver health and reducing anxiety.",
+                        "parts_used": "Flowers, Roots.",
+                        "precautions": "Raw consumption may cause mild digestive discomfort.",
+                        "description": "The Orange Daylily is a beautiful flowering plant with medicinal properties. It is traditionally used to treat insomnia, support liver health, and reduce swelling."
+                      },
+                      "Hemigraphis glaucescens": {
+                        "common_name": "Red Ivy",
+                        "scientific_name": "Hemigraphis glaucescens",
+                        "benefits": "Promotes wound healing and supports skin health.",
+                        "habitat": "Tropical regions, commonly grown as an ornamental plant.",
+                        "traditional_uses": "Applied to wounds and skin irritations.",
+                        "parts_used": "Leaves.",
+                        "precautions": "No significant side effects reported.",
+                        "description": "Red Ivy is a tropical plant valued for its ability to heal wounds and improve skin health. Its leaves are often crushed and applied directly to affected areas."
+                      },
+                      
+                        "Hibiscus mutabilis": {
+                          "common_name": "Confederate Rose",
+                          "scientific_name": "Hibiscus mutabilis",
+                          "benefits": "Relieves swelling, soothes skin irritation, and promotes wound healing.",
+                          "habitat": "Tropical and subtropical regions, often cultivated in gardens.",
+                          "traditional_uses": "Used for skin conditions and as an anti-inflammatory poultice.",
+                          "parts_used": "Flowers, Leaves.",
+                          "precautions": "No significant side effects reported.",
+                          "description": "The Confederate Rose is a flowering plant often used for its anti-inflammatory and wound-healing properties. Its flowers and leaves are traditionally applied to the skin to reduce swelling and irritation."
+                        },
+                        "Hibiscus rosa-sinensis": {
+                          "common_name": "China Rose",
+                          "scientific_name": "Hibiscus rosa-sinensis",
+                          "benefits": "Improves hair health, treats dandruff, and supports cardiovascular health.",
+                          "habitat": "Tropical and subtropical climates, often cultivated as an ornamental plant.",
+                          "traditional_uses": "Used in hair care remedies and as a natural coolant.",
+                          "parts_used": "Flowers, Leaves.",
+                          "precautions": "Overuse may cause mild gastrointestinal discomfort.",
+                          "description": "The China Rose is a widely recognized ornamental plant with medicinal uses. Its flowers and leaves are often used in traditional remedies to improve hair health and soothe the scalp."
+                        },
+                        "Hibiscus sabdariffa": {
+                          "common_name": "Roselle",
+                          "scientific_name": "Hibiscus sabdariffa",
+                          "benefits": "Lowers blood pressure, aids digestion, and supports liver health.",
+                          "habitat": "Tropical and subtropical regions, often cultivated for its edible calyces.",
+                          "traditional_uses": "Used in teas and beverages for its cooling and health-promoting properties.",
+                          "parts_used": "Calyces, Leaves.",
+                          "precautions": "Excessive consumption may lower blood pressure too much.",
+                          "description": "Roselle is a versatile plant known for its tangy and refreshing calyces, which are commonly used in herbal teas. It is valued for its blood pressure-lowering and liver-supporting properties."
+                        },
+                        "Holarrhena pubescens": {
+                          "common_name": "Kurchi",
+                          "scientific_name": "Holarrhena pubescens",
+                          "benefits": "Treats diarrhea, dysentery, and intestinal worms.",
+                          "habitat": "Tropical forests and grasslands in Asia.",
+                          "traditional_uses": "Used in Ayurveda to treat gastrointestinal disorders.",
+                          "parts_used": "Bark, Seeds.",
+                          "precautions": "May cause nausea in sensitive individuals.",
+                          "description": "Kurchi is a medicinal plant commonly used in Ayurveda for treating gastrointestinal ailments. Its bark and seeds are particularly effective in managing diarrhea and intestinal worms."
+                        },
+                        "Homalomena occulta": {
+                          "common_name": "Shield Arum",
+                          "scientific_name": "Homalomena occulta",
+                          "benefits": "Reduces inflammation, alleviates joint pain, and promotes healing.",
+                          "habitat": "Tropical rainforests, often found in shaded areas.",
+                          "traditional_uses": "Applied as a poultice for joint pain and inflammation.",
+                          "parts_used": "Leaves, Rhizomes.",
+                          "precautions": "Direct contact may cause mild skin irritation in some individuals.",
+                          "description": "Shield Arum is a tropical plant used in traditional medicine to reduce joint pain and inflammation. Its rhizomes and leaves are often used in poultices for their healing properties."
+                        },
+                        "Houttuynia cordata": {
+                          "common_name": "Chameleon Plant",
+                          "scientific_name": "Houttuynia cordata",
+                          "benefits": "Detoxifies the body, treats respiratory infections, and supports immune health.",
+                          "habitat": "Wet and shaded areas in tropical and subtropical regions.",
+                          "traditional_uses": "Used in traditional Chinese medicine for detoxification and respiratory health.",
+                          "parts_used": "Leaves, Stems.",
+                          "precautions": "Overuse may cause mild nausea or digestive discomfort.",
+                          "description": "The Chameleon Plant is a well-known herb in traditional medicine for its detoxifying and immune-boosting properties. It is often consumed as a tea or added to soups for its health benefits."
+                        },
+                        "Imperata cylindrica": {
+                          "common_name": "Cogon Grass",
+                          "scientific_name": "Imperata cylindrica",
+                          "benefits": "Treats fever, promotes diuresis, and supports kidney health.",
+                          "habitat": "Grasslands, roadsides, and disturbed areas in tropical regions.",
+                          "traditional_uses": "Roots are used in teas for fever and urinary issues.",
+                          "parts_used": "Roots.",
+                          "precautions": "No significant side effects reported.",
+                          "description": "Cogon Grass is a common grass with medicinal roots used in traditional remedies for fever and urinary health. It is valued for its cooling and diuretic properties."
+                        },
+                        "Eichhornia crassipes": {
+                          "common_name": "Water Hyacinth",
+                          "scientific_name": "Eichhornia crassipes",
+                          "benefits": "Treats skin infections, acts as an anti-inflammatory, and promotes wound healing.",
+                          "habitat": "Freshwater habitats, including ponds and lakes.",
+                          "traditional_uses": "Used in poultices for skin infections and wounds.",
+                          "parts_used": "Leaves, Flowers.",
+                          "precautions": "Can be toxic if consumed in large quantities due to heavy metal absorption from polluted water.",
+                          "description": "Water Hyacinth is an aquatic plant known for its beauty and medicinal properties. It is traditionally used to treat skin infections and promote wound healing, although caution is needed regarding its source."
+                        },
+                        "Eleutherine bulbosa": {
+                          "common_name": "Dayak Onion",
+                          "scientific_name": "Eleutherine bulbosa",
+                          "benefits": "Lowers cholesterol, controls blood sugar, and supports immune health.",
+                          "habitat": "Tropical regions, commonly found in forested areas.",
+                          "traditional_uses": "Used in herbal teas to manage diabetes and cholesterol levels.",
+                          "parts_used": "Bulbs.",
+                          "precautions": "May cause mild gastrointestinal discomfort in sensitive individuals.",
+                          "description": "Dayak Onion is a traditional herb known for its ability to lower cholesterol and blood sugar levels. Its bulbs are commonly used in herbal remedies for metabolic health."
+                        },
+                        "Erythrina variegata": {
+                          "common_name": "Indian Coral Tree",
+                          "scientific_name": "Erythrina variegata",
+                          "benefits": "Reduces inflammation, relieves pain, and promotes relaxation.",
+                          "habitat": "Tropical and subtropical regions, often grown as an ornamental tree.",
+                          "traditional_uses": "Leaves and bark are used for pain relief and as a sedative.",
+                          "parts_used": "Leaves, Bark.",
+                          "precautions": "Overuse may cause drowsiness.",
+                          "description": "The Indian Coral Tree is a vibrant tree with medicinal properties. Its leaves and bark are traditionally used to relieve pain and inflammation, as well as to promote relaxation."
+                        },
+                        
+                          "Iris domestica": {
+                            "common_name": "Blackberry Lily",
+                            "scientific_name": "Iris domestica",
+                            "benefits": "Supports respiratory health and aids in digestion.",
+                            "habitat": "Sunny areas, often found in gardens and grasslands.",
+                            "traditional_uses": "Used in traditional medicine for treating coughs and gastrointestinal disorders.",
+                            "parts_used": "Roots, Seeds.",
+                            "precautions": "Consumption of raw seeds may cause mild toxicity.",
+                            "description": "The Blackberry Lily is a flowering plant known for its vibrant blooms and medicinal properties. Its roots and seeds are traditionally used for respiratory and digestive health."
+                          },
+                          "Ixora coccinea": {
+                            "common_name": "Jungle Geranium",
+                            "scientific_name": "Ixora coccinea",
+                            "benefits": "Treats skin infections, reduces fever, and alleviates stomach discomfort.",
+                            "habitat": "Tropical and subtropical regions, commonly grown as an ornamental plant.",
+                            "traditional_uses": "Flowers are used in poultices for skin conditions and as a remedy for fever.",
+                            "parts_used": "Flowers, Leaves, Roots.",
+                            "precautions": "No significant side effects reported.",
+                            "description": "Jungle Geranium is an ornamental plant valued for its medicinal properties. Its flowers and roots are commonly used in traditional remedies for fever and skin infections."
+                          },
+                          "Jasminum sambac": {
+                            "common_name": "Arabian Jasmine",
+                            "scientific_name": "Jasminum sambac",
+                            "benefits": "Relieves stress, promotes relaxation, and soothes skin.",
+                            "habitat": "Tropical and subtropical regions, cultivated in gardens.",
+                            "traditional_uses": "Used in aromatherapy and as a poultice for skin irritations.",
+                            "parts_used": "Flowers, Leaves.",
+                            "precautions": "No significant side effects reported.",
+                            "description": "Arabian Jasmine is a fragrant flowering plant often used in perfumes and traditional medicine. Its flowers are known for their stress-relieving and skin-soothing properties."
+                          },
+                          "Jatropha gossypiifolia": {
+                            "common_name": "Bellyache Bush",
+                            "scientific_name": "Jatropha gossypiifolia",
+                            "benefits": "Treats skin conditions, alleviates joint pain, and acts as an anti-inflammatory.",
+                            "habitat": "Tropical regions, often found in disturbed areas.",
+                            "traditional_uses": "Used as a topical remedy for wounds and inflammation.",
+                            "parts_used": "Leaves, Seeds, Bark.",
+                            "precautions": "Toxic if ingested in large amounts; handle with care.",
+                            "description": "The Bellyache Bush is a tropical plant with strong medicinal properties. It is traditionally used to treat skin conditions and inflammation, although caution is advised due to its toxicity."
+                          },
+                          "Jatropha multifida": {
+                            "common_name": "Coral Plant",
+                            "scientific_name": "Jatropha multifida",
+                            "benefits": "Heals wounds, treats fungal infections, and reduces inflammation.",
+                            "habitat": "Tropical and subtropical regions, often grown as an ornamental plant.",
+                            "traditional_uses": "Used in traditional medicine for wound healing and fungal infections.",
+                            "parts_used": "Leaves, Sap.",
+                            "precautions": "Toxic if consumed; external use only.",
+                            "description": "The Coral Plant is an ornamental plant known for its wound-healing and antifungal properties. Its leaves and sap are commonly used in traditional remedies, but ingestion should be avoided."
+                          },
+                          "Jatropha podagrica": {
+                            "common_name": "Buddha Belly Plant",
+                            "scientific_name": "Jatropha podagrica",
+                            "benefits": "Treats skin infections and promotes wound healing.",
+                            "habitat": "Tropical regions, commonly cultivated as a garden plant.",
+                            "traditional_uses": "Applied topically to treat skin infections and wounds.",
+                            "parts_used": "Sap, Leaves.",
+                            "precautions": "Highly toxic if ingested; handle with care.",
+                            "description": "The Buddha Belly Plant is a striking ornamental plant with medicinal uses. Its sap is traditionally applied to wounds and skin infections for its healing properties."
+                          },
+                          "Justicia gendarussa": {
+                            "common_name": "Willow-leaved Justicia",
+                            "scientific_name": "Justicia gendarussa",
+                            "benefits": "Reduces inflammation, alleviates pain, and supports respiratory health.",
+                            "habitat": "Tropical and subtropical regions, often found near water bodies.",
+                            "traditional_uses": "Used in traditional medicine for joint pain and respiratory conditions.",
+                            "parts_used": "Leaves.",
+                            "precautions": "No significant side effects reported.",
+                            "description": "Willow-leaved Justicia is a medicinal plant used in traditional remedies for pain relief and respiratory health. Its leaves are known for their anti-inflammatory properties."
+                          },
+                          "Kalanchoe pinnata": {
+                            "common_name": "Cathedral Bells",
+                            "scientific_name": "Kalanchoe pinnata",
+                            "benefits": "Heals wounds, treats ulcers, and reduces inflammation.",
+                            "habitat": "Tropical and subtropical regions, often grown as a garden plant.",
+                            "traditional_uses": "Used in poultices for wound healing and as a remedy for ulcers.",
+                            "parts_used": "Leaves.",
+                            "precautions": "No significant side effects reported.",
+                            "description": "Cathedral Bells is a succulent plant known for its wound-healing and anti-inflammatory properties. Its leaves are widely used in traditional medicine for skin and internal health."
+                          },
+                          "Lactuca indica": {
+                            "common_name": "Indian Lettuce",
+                            "scientific_name": "Lactuca indica",
+                            "benefits": "Aids digestion, reduces fever, and supports liver health.",
+                            "habitat": "Temperate and subtropical regions, often found in wild and cultivated forms.",
+                            "traditional_uses": "Used in soups and teas for digestive and liver health.",
+                            "parts_used": "Leaves, Roots.",
+                            "precautions": "No significant side effects reported.",
+                            "description": "Indian Lettuce is a versatile plant used both as a vegetable and in traditional medicine. Its leaves and roots are known for their digestive and liver-supporting properties."
+                          },
+                          "Lantana camara": {
+                            "common_name": "Wild Sage",
+                            "scientific_name": "Lantana camara",
+                            "benefits": "Treats skin infections, reduces inflammation, and repels insects.",
+                            "habitat": "Tropical and subtropical regions, often found as an invasive species.",
+                            "traditional_uses": "Leaves are used in poultices for wounds and as an insect repellent.",
+                            "parts_used": "Leaves, Flowers.",
+                            "precautions": "Toxic to livestock and humans if ingested.",
+                            "description": "Wild Sage is an ornamental plant with medicinal uses. Its leaves are commonly used in traditional remedies for skin infections and as a natural insect repellent."
+                          },
+                        
+                          
+                            "Lawsonia inermis": {
+                              "common_name": "Henna",
+                              "scientific_name": "Lawsonia inermis",
+                              "benefits": "Promotes hair health, treats skin conditions, and reduces inflammation.",
+                              "habitat": "Arid and semi-arid regions, cultivated in tropical areas.",
+                              "traditional_uses": "Used for dyeing hair and skin and treating wounds and burns.",
+                              "parts_used": "Leaves, Bark.",
+                              "precautions": "May cause allergic reactions in some individuals.",
+                              "description": "Henna is a widely known plant used for its dyeing properties and medicinal benefits. Its leaves are traditionally used in cosmetics and treatments for skin and hair health."
+                            },
+                            "Leea rubra": {
+                              "common_name": "Red Leea",
+                              "scientific_name": "Leea rubra",
+                              "benefits": "Promotes wound healing and reduces inflammation.",
+                              "habitat": "Tropical and subtropical regions, often in forested areas.",
+                              "traditional_uses": "Used in traditional medicine to heal wounds and reduce inflammation.",
+                              "parts_used": "Leaves, Roots.",
+                              "precautions": "No significant side effects reported.",
+                              "description": "Red Leea is a tropical plant valued for its ability to promote wound healing. Its roots and leaves are commonly used in poultices and herbal remedies."
+                            },
+                            "Litsea glutinosa": {
+                              "common_name": "Indian Laurel",
+                              "scientific_name": "Litsea glutinosa",
+                              "benefits": "Treats skin ailments, reduces inflammation, and alleviates joint pain.",
+                              "habitat": "Tropical and subtropical forests.",
+                              "traditional_uses": "Bark is used in decoctions for joint pain and skin conditions.",
+                              "parts_used": "Bark, Leaves.",
+                              "precautions": "No significant side effects reported.",
+                              "description": "Indian Laurel is a medicinal plant with anti-inflammatory properties. Its bark is widely used in traditional medicine for skin and joint health."
+                            },
+                            "Lonicera dasystyla": {
+                              "common_name": "Honeysuckle",
+                              "scientific_name": "Lonicera dasystyla",
+                              "benefits": "Treats respiratory infections, reduces fever, and supports immunity.",
+                              "habitat": "Temperate and subtropical regions.",
+                              "traditional_uses": "Used in traditional medicine for colds, flu, and infections.",
+                              "parts_used": "Flowers, Leaves.",
+                              "precautions": "May cause mild gastrointestinal discomfort if overused.",
+                              "description": "Honeysuckle is a medicinal plant known for its antibacterial and antiviral properties. Its flowers are commonly used in teas and remedies for respiratory health."
+                            },
+                            "Ipomoea sp": {
+                              "common_name": "Morning Glory",
+                              "scientific_name": "Ipomoea sp",
+                              "benefits": "Supports digestive health and acts as a mild laxative.",
+                              "habitat": "Tropical and subtropical regions, commonly found in gardens.",
+                              "traditional_uses": "Used in traditional medicine as a gentle remedy for constipation.",
+                              "parts_used": "Leaves, Seeds.",
+                              "precautions": "Some species may contain toxic compounds; use with caution.",
+                              "description": "Morning Glory is a vibrant flowering plant with mild laxative properties. Its seeds and leaves are used in traditional medicine for digestive health."
+                            },
+                            "Maesa": {
+                              "common_name": "Maesa Plant",
+                              "scientific_name": "Maesa sp",
+                              "benefits": "Used to treat respiratory and skin conditions.",
+                              "habitat": "Tropical and subtropical regions, often in forested areas.",
+                              "traditional_uses": "Applied topically for skin conditions and as a remedy for respiratory issues.",
+                              "parts_used": "Leaves, Roots.",
+                              "precautions": "Limited research available; avoid excessive use.",
+                              "description": "The Maesa plant is a medicinal herb traditionally used for respiratory and skin health. Its leaves and roots are valued for their therapeutic properties."
+                            },
+                            "Mallotus barbatus": {
+                              "common_name": "Hairy Mallotus",
+                              "scientific_name": "Mallotus barbatus",
+                              "benefits": "Reduces inflammation, treats skin disorders, and promotes wound healing.",
+                              "habitat": "Tropical and subtropical forests.",
+                              "traditional_uses": "Used in poultices for wounds and skin ailments.",
+                              "parts_used": "Leaves, Bark.",
+                              "precautions": "No significant side effects reported.",
+                              "description": "Hairy Mallotus is a medicinal plant known for its anti-inflammatory and wound-healing properties. Its bark and leaves are widely used in traditional medicine."
+                            },
+                            "Mangifera": {
+                              "common_name": "Mango",
+                              "scientific_name": "Mangifera indica",
+                              "benefits": "Rich in antioxidants, supports digestion, and promotes immunity.",
+                              "habitat": "Tropical and subtropical regions, often cultivated in orchards.",
+                              "traditional_uses": "Leaves and bark are used for diabetes and digestive disorders.",
+                              "parts_used": "Fruits, Leaves, Bark.",
+                              "precautions": "Excessive consumption may lead to digestive discomfort.",
+                              "description": "Mango is a popular fruit-bearing tree with numerous health benefits. Beyond its fruit, the leaves and bark are traditionally used in remedies for digestion and blood sugar management."
+                            },
+                            "Melastoma malabathricum": {
+                              "common_name": "Indian Rhododendron",
+                              "scientific_name": "Melastoma malabathricum",
+                              "benefits": "Treats diarrhea, reduces inflammation, and promotes wound healing.",
+                              "habitat": "Tropical and subtropical regions, often in grasslands.",
+                              "traditional_uses": "Leaves are used in decoctions for diarrhea and as a poultice for wounds.",
+                              "parts_used": "Leaves, Roots.",
+                              "precautions": "No significant side effects reported.",
+                              "description": "Indian Rhododendron is a medicinal plant widely used in traditional remedies. Its leaves are known for their anti-inflammatory and wound-healing properties."
+                            },
+                            "Mentha spicata": {
+                              "common_name": "Spearmint",
+                              "scientific_name": "Mentha spicata",
+                              "benefits": "Aids digestion, relieves headaches, and supports respiratory health.",
+                              "habitat": "Temperate regions, often cultivated in gardens.",
+                              "traditional_uses": "Used in teas for digestive health and as an aromatic remedy for colds.",
+                              "parts_used": "Leaves.",
+                              "precautions": "Overconsumption may cause stomach upset.",
+                              "description": "Spearmint is a well-known herb used in both culinary and medicinal applications. Its leaves are commonly used in teas and remedies for digestion and respiratory health."
+                            },
+                            
+                              "Microcos tomentosa": {
+                                "common_name": "Tomentosa Microcos",
+                                "scientific_name": "Microcos tomentosa",
+                                "benefits": "Supports digestive health, reduces inflammation, and treats minor skin conditions.",
+                                "habitat": "Tropical regions, often found in forested areas.",
+                                "traditional_uses": "Used for treating indigestion and as an anti-inflammatory agent.",
+                                "parts_used": "Leaves, Bark.",
+                                "precautions": "No significant side effects reported.",
+                                "description": "Microcos tomentosa is a medicinal plant known for its ability to alleviate digestive issues and skin conditions. Its bark and leaves are commonly used in traditional herbal medicine."
+                              },
+                              "Micromelum falcatum": {
+                                "common_name": "Micromelum",
+                                "scientific_name": "Micromelum falcatum",
+                                "benefits": "Has antioxidant properties and supports overall health.",
+                                "habitat": "Tropical and subtropical forests.",
+                                "traditional_uses": "Used in traditional medicine as a general health tonic.",
+                                "parts_used": "Leaves, Roots.",
+                                "precautions": "Limited research available; use with caution.",
+                                "description": "Micromelum falcatum is a lesser-known medicinal plant with antioxidant properties. It is traditionally used to promote general well-being."
+                              },
+                              "Millettia pulchra": {
+                                "common_name": "Pulchra Millettia",
+                                "scientific_name": "Millettia pulchra",
+                                "benefits": "Supports joint health and reduces inflammation.",
+                                "habitat": "Tropical and subtropical regions, often in forests.",
+                                "traditional_uses": "Used for treating arthritis and inflammation-related ailments.",
+                                "parts_used": "Roots, Leaves.",
+                                "precautions": "No significant side effects reported.",
+                                "description": "Millettia pulchra is a medicinal plant valued for its anti-inflammatory properties, often used to support joint health and alleviate pain."
+                              },
+                              "Mimosa pudica": {
+                                "common_name": "Touch-Me-Not",
+                                "scientific_name": "Mimosa pudica",
+                                "benefits": "Treats skin disorders, supports wound healing, and relieves joint pain.",
+                                "habitat": "Tropical regions, found in open areas and gardens.",
+                                "traditional_uses": "Used for its soothing properties on skin and in poultices for wounds.",
+                                "parts_used": "Leaves, Roots.",
+                                "precautions": "May cause mild skin irritation if overused.",
+                                "description": "Mimosa pudica, also known as the sensitive plant, is known for its therapeutic properties, particularly in treating skin and joint issues."
+                              },
+                              "Morinda citrifolia": {
+                                "common_name": "Noni",
+                                "scientific_name": "Morinda citrifolia",
+                                "benefits": "Boosts immunity, promotes skin health, and supports digestive health.",
+                                "habitat": "Tropical and coastal regions.",
+                                "traditional_uses": "Used in traditional medicine for immune support and to improve skin conditions.",
+                                "parts_used": "Fruits, Leaves, Roots.",
+                                "precautions": "Excessive consumption may cause digestive discomfort.",
+                                "description": "Noni is a tropical fruit-bearing plant known for its diverse medicinal uses. Its fruit and leaves are widely used in traditional remedies for overall health."
+                              },
+                              "Moringa oleifera": {
+                                "common_name": "Drumstick Tree",
+                                "scientific_name": "Moringa oleifera",
+                                "benefits": "Rich in nutrients, supports immunity, and promotes overall health.",
+                                "habitat": "Tropical and subtropical regions.",
+                                "traditional_uses": "Used in traditional medicine for malnutrition and as an anti-inflammatory agent.",
+                                "parts_used": "Leaves, Seeds, Bark.",
+                                "precautions": "May cause mild digestive upset if consumed in excess.",
+                                "description": "Moringa oleifera is a nutrient-dense plant used in traditional medicine to support health and combat malnutrition. Its leaves and seeds are particularly valued for their benefits."
+                              },
+                              "Morus alba": {
+                                "common_name": "White Mulberry",
+                                "scientific_name": "Morus alba",
+                                "benefits": "Supports blood sugar management, boosts immunity, and promotes skin health.",
+                                "habitat": "Temperate and subtropical regions, often cultivated.",
+                                "traditional_uses": "Used for its antioxidant properties and as a remedy for colds.",
+                                "parts_used": "Leaves, Fruits.",
+                                "precautions": "May interact with certain medications; consult a healthcare professional.",
+                                "description": "White Mulberry is a versatile medicinal plant used for its antioxidant and anti-diabetic properties. Its leaves and fruits are commonly utilized in herbal remedies."
+                              },
+                              "Mussaenda philippica": {
+                                "common_name": "Dona Aurora",
+                                "scientific_name": "Mussaenda philippica",
+                                "benefits": "Supports respiratory health and reduces inflammation.",
+                                "habitat": "Tropical regions, often grown as an ornamental plant.",
+                                "traditional_uses": "Used in traditional remedies for respiratory and inflammatory conditions.",
+                                "parts_used": "Leaves, Flowers.",
+                                "precautions": "Limited research available; use with caution.",
+                                "description": "Mussaenda philippica is an ornamental plant with medicinal properties, particularly in supporting respiratory health and reducing inflammation."
+                              },
+                              "Nelumbo nucifera": {
+                                "common_name": "Sacred Lotus",
+                                "scientific_name": "Nelumbo nucifera",
+                                "benefits": "Supports cardiovascular health, promotes relaxation, and aids digestion.",
+                                "habitat": "Ponds and wetlands in tropical and subtropical regions.",
+                                "traditional_uses": "Used for its calming effects and as a digestive aid.",
+                                "parts_used": "Seeds, Leaves, Flowers.",
+                                "precautions": "No significant side effects reported.",
+                                "description": "The Sacred Lotus is a revered plant in many cultures for its symbolic and medicinal value. Its seeds and flowers are commonly used in traditional medicine."
+                              },
+                              "Ocimum basilicum": {
+                                "common_name": "Sweet Basil",
+                                "scientific_name": "Ocimum basilicum",
+                                "benefits": "Supports digestive health, reduces stress, and promotes skin health.",
+                                "habitat": "Tropical and temperate regions, commonly grown in gardens.",
+                                "traditional_uses": "Used in teas and as a remedy for digestive and respiratory issues.",
+                                "parts_used": "Leaves.",
+                                "precautions": "Overconsumption may cause mild gastrointestinal discomfort.",
+                                "description": "Sweet Basil is a popular culinary and medicinal herb known for its calming and digestive benefits. Its aromatic leaves are widely used in traditional remedies and cuisine."
+                              },
+                              
+                                "Ocimum gratissimum": {
+                                  "common_name": "African Basil",
+                                  "scientific_name": "Ocimum gratissimum",
+                                  "benefits": "Promotes respiratory health, reduces stress, and supports digestive health.",
+                                  "habitat": "Tropical and subtropical regions.",
+                                  "traditional_uses": "Used in teas and herbal remedies for colds, coughs, and digestion.",
+                                  "parts_used": "Leaves.",
+                                  "precautions": "May cause allergic reactions in some individuals.",
+                                  "description": "African Basil is a medicinal herb known for its aromatic leaves and therapeutic properties. It is often used in teas to alleviate respiratory issues and promote relaxation."
+                                },
+                                "Ocimum sanctum": {
+                                  "common_name": "Holy Basil",
+                                  "scientific_name": "Ocimum sanctum",
+                                  "benefits": "Boosts immunity, reduces stress, and improves respiratory health.",
+                                  "habitat": "Tropical regions, commonly cultivated in home gardens.",
+                                  "traditional_uses": "Widely used in Ayurveda for its adaptogenic and medicinal properties.",
+                                  "parts_used": "Leaves, Seeds.",
+                                  "precautions": "Excessive consumption may cause mild digestive upset.",
+                                  "description": "Holy Basil, also known as Tulsi, is a sacred plant in many cultures. It is valued for its adaptogenic properties and is widely used in traditional medicine for boosting immunity and reducing stress."
+                                },
+                                "Oenanthe javanica": {
+                                  "common_name": "Water Celery",
+                                  "scientific_name": "Oenanthe javanica",
+                                  "benefits": "Promotes liver health, supports detoxification, and improves digestion.",
+                                  "habitat": "Wetlands and aquatic environments in tropical regions.",
+                                  "traditional_uses": "Used in traditional medicine for detoxifying the body and supporting liver function.",
+                                  "parts_used": "Leaves, Stems.",
+                                  "precautions": "May cause allergic reactions in sensitive individuals.",
+                                  "description": "Water Celery is a medicinal and culinary plant often used for its detoxifying and digestive properties. It thrives in wet and aquatic environments."
+                                },
+                                "Ophiopogon japonicus": {
+                                  "common_name": "Dwarf Lilyturf",
+                                  "scientific_name": "Ophiopogon japonicus",
+                                  "benefits": "Supports respiratory health, improves hydration, and promotes skin health.",
+                                  "habitat": "Temperate regions, often found in shaded and moist areas.",
+                                  "traditional_uses": "Used in traditional Chinese medicine for respiratory issues and as a tonic for overall health.",
+                                  "parts_used": "Roots.",
+                                  "precautions": "No significant side effects reported.",
+                                  "description": "Dwarf Lilyturf is a popular medicinal plant in traditional Chinese medicine, known for its benefits in supporting respiratory and skin health."
+                                },
+                                "Paederia lanuginosa": {
+                                  "common_name": "Skunkvine",
+                                  "scientific_name": "Paederia lanuginosa",
+                                  "benefits": "Treats digestive issues, supports joint health, and reduces inflammation.",
+                                  "habitat": "Tropical and subtropical regions, often found in forests.",
+                                  "traditional_uses": "Used for treating arthritis, digestive disorders, and inflammation.",
+                                  "parts_used": "Leaves, Roots.",
+                                  "precautions": "May cause mild gastrointestinal discomfort if overused.",
+                                  "description": "Skunkvine is a medicinal plant valued for its anti-inflammatory and digestive properties. Its leaves and roots are used in traditional medicine for various ailments."
+                                },
+                                "Pandanus amaryllifolius": {
+                                  "common_name": "Pandan Leaf",
+                                  "scientific_name": "Pandanus amaryllifolius",
+                                  "benefits": "Improves digestion, supports skin health, and reduces inflammation.",
+                                  "habitat": "Tropical and subtropical regions, commonly cultivated in gardens.",
+                                  "traditional_uses": "Used in traditional medicine and as a flavoring agent in culinary dishes.",
+                                  "parts_used": "Leaves.",
+                                  "precautions": "No significant side effects reported.",
+                                  "description": "Pandan Leaf is a widely known plant used both for its medicinal properties and as a culinary ingredient. Its leaves are aromatic and beneficial for health."
+                                },
+                                "Pandanus sp": {
+                                  "common_name": "Screw Pine",
+                                  "scientific_name": "Pandanus sp",
+                                  "benefits": "Supports respiratory health, reduces fever, and promotes skin health.",
+                                  "habitat": "Tropical and coastal regions.",
+                                  "traditional_uses": "Leaves are used for making mats and as a remedy for colds and skin issues.",
+                                  "parts_used": "Leaves, Roots.",
+                                  "precautions": "Limited research available; use with caution.",
+                                  "description": "Screw Pine is a versatile plant used in traditional medicine for its therapeutic properties. Its leaves and roots are valued for their health benefits and practical uses."
+                                },
+                                "Pandanus tectorius": {
+                                  "common_name": "Hala Fruit",
+                                  "scientific_name": "Pandanus tectorius",
+                                  "benefits": "Supports digestive health, improves hydration, and promotes skin health.",
+                                  "habitat": "Tropical and coastal regions, especially on sandy soils.",
+                                  "traditional_uses": "Used for treating digestive issues and as a natural source of hydration.",
+                                  "parts_used": "Fruits, Leaves.",
+                                  "precautions": "No significant side effects reported.",
+                                  "description": "Hala Fruit is a tropical plant known for its unique fruit and medicinal properties. It is commonly used to promote digestive health and hydration."
+                                },
+                                "Parameria laevigata": {
+                                  "common_name": "Smooth Parameria",
+                                  "scientific_name": "Parameria laevigata",
+                                  "benefits": "Supports cardiovascular health, reduces stress, and improves vitality.",
+                                  "habitat": "Tropical forests and grasslands.",
+                                  "traditional_uses": "Used in traditional medicine as a tonic for improving energy and vitality.",
+                                  "parts_used": "Roots, Bark.",
+                                  "precautions": "No significant side effects reported.",
+                                  "description": "Smooth Parameria is a medicinal plant traditionally used as a health tonic. Its roots and bark are known for their rejuvenating properties."
+                                },
+                                "Passiflora foetida": {
+                                  "common_name": "Stinking Passionflower",
+                                  "scientific_name": "Passiflora foetida",
+                                  "benefits": "Promotes relaxation, improves sleep, and supports respiratory health.",
+                                  "habitat": "Tropical and subtropical regions, often in open areas.",
+                                  "traditional_uses": "Used for treating insomnia, anxiety, and respiratory issues.",
+                                  "parts_used": "Leaves, Fruits.",
+                                  "precautions": "Overconsumption may cause mild gastrointestinal discomfort.",
+                                  "description": "Stinking Passionflower is a medicinal plant known for its calming and respiratory benefits. Its leaves and fruits are widely used in traditional remedies for stress and sleep issues."
+                                },
+                                
+                                  "Pereskia sacharosa": {
+                                    "common_name": "Barbados Gooseberry",
+                                    "scientific_name": "Pereskia sacharosa",
+                                    "benefits": "Rich in antioxidants, supports skin health, and aids digestion.",
+                                    "habitat": "Tropical and subtropical regions.",
+                                    "traditional_uses": "Used in remedies for digestive health and as a source of nutrition.",
+                                    "parts_used": "Fruits, Leaves.",
+                                    "precautions": "No significant side effects reported.",
+                                    "description": "Barbados Gooseberry is a fruit-bearing plant with medicinal and nutritional properties. Its fruits and leaves are often used in traditional medicine."
+                                  },
+                                  "Persicaria odorata": {
+                                    "common_name": "Vietnamese Coriander",
+                                    "scientific_name": "Persicaria odorata",
+                                    "benefits": "Improves digestion, reduces inflammation, and supports wound healing.",
+                                    "habitat": "Wetlands and tropical regions.",
+                                    "traditional_uses": "Used in culinary dishes and traditional remedies for digestive issues.",
+                                    "parts_used": "Leaves.",
+                                    "precautions": "Overuse may lead to mild gastrointestinal discomfort.",
+                                    "description": "Vietnamese Coriander is an aromatic herb used for both culinary and medicinal purposes. Its leaves are valued for their digestive and anti-inflammatory benefits."
+                                  },
+                                  "Phlogacanthus turgidus": {
+                                    "common_name": "Giant Shrubby Cat's Tail",
+                                    "scientific_name": "Phlogacanthus turgidus",
+                                    "benefits": "Supports respiratory health and treats colds and coughs.",
+                                    "habitat": "Tropical forests and grasslands.",
+                                    "traditional_uses": "Used in traditional medicine for respiratory ailments.",
+                                    "parts_used": "Leaves, Flowers.",
+                                    "precautions": "No significant side effects reported.",
+                                    "description": "Giant Shrubby Cat's Tail is a medicinal plant known for its respiratory benefits. Its leaves and flowers are often used in herbal remedies."
+                                  },
+                                  "Phrynium placentarium": {
+                                    "common_name": "Phrynium Leaf",
+                                    "scientific_name": "Phrynium placentarium",
+                                    "benefits": "Treats skin conditions, reduces inflammation, and supports wound healing.",
+                                    "habitat": "Tropical forests, often in shaded areas.",
+                                    "traditional_uses": "Used as a natural wrap for food and in remedies for skin ailments.",
+                                    "parts_used": "Leaves.",
+                                    "precautions": "No significant side effects reported.",
+                                    "description": "Phrynium Leaf is a versatile plant used in both traditional medicine and culinary applications. Its leaves are known for their skin-healing properties."
+                                  },
+                                  "Phyllanthus reticulatus": {
+                                    "common_name": "Black-berried Tree Gooseberry",
+                                    "scientific_name": "Phyllanthus reticulatus",
+                                    "benefits": "Supports liver health, improves digestion, and reduces inflammation.",
+                                    "habitat": "Tropical and subtropical regions.",
+                                    "traditional_uses": "Used in remedies for liver disorders and digestive health.",
+                                    "parts_used": "Leaves, Bark.",
+                                    "precautions": "No significant side effects reported.",
+                                    "description": "Black-berried Tree Gooseberry is a medicinal plant known for its liver-supporting and anti-inflammatory properties. It is widely used in traditional remedies."
+                                  },
+                                  "Piper betle": {
+                                    "common_name": "Betel Leaf",
+                                    "scientific_name": "Piper betle",
+                                    "benefits": "Supports oral health, improves digestion, and treats respiratory issues.",
+                                    "habitat": "Tropical and subtropical regions, often cultivated.",
+                                    "traditional_uses": "Leaves are chewed for digestive and oral health benefits.",
+                                    "parts_used": "Leaves.",
+                                    "precautions": "Overuse may lead to mild irritation in some individuals.",
+                                    "description": "Betel Leaf is a well-known plant used for its medicinal and cultural significance. Its leaves are valued for their therapeutic properties."
+                                  },
+                                  "Piper sarmentosum": {
+                                    "common_name": "Wild Betel Leaf",
+                                    "scientific_name": "Piper sarmentosum",
+                                    "benefits": "Reduces inflammation, supports respiratory health, and improves digestion.",
+                                    "habitat": "Tropical forests and wetlands.",
+                                    "traditional_uses": "Used in traditional medicine for colds, coughs, and digestion.",
+                                    "parts_used": "Leaves.",
+                                    "precautions": "No significant side effects reported.",
+                                    "description": "Wild Betel Leaf is a medicinal plant widely used in traditional remedies. Its leaves are known for their anti-inflammatory and digestive benefits."
+                                  },
+                                  "Plantago": {
+                                    "common_name": "Plantain",
+                                    "scientific_name": "Plantago sp.",
+                                    "benefits": "Supports digestive health, treats wounds, and reduces inflammation.",
+                                    "habitat": "Temperate and tropical regions, often found in meadows and grasslands.",
+                                    "traditional_uses": "Used in poultices for wound healing and as a remedy for digestive issues.",
+                                    "parts_used": "Leaves, Seeds.",
+                                    "precautions": "No significant side effects reported.",
+                                    "description": "Plantain is a versatile plant known for its medicinal properties. Its leaves and seeds are used in remedies for digestion and skin health."
+                                  },
+                                  "Platycladus orientalis": {
+                                    "common_name": "Oriental Arborvitae",
+                                    "scientific_name": "Platycladus orientalis",
+                                    "benefits": "Supports hair health, treats respiratory issues, and reduces fever.",
+                                    "habitat": "Temperate and subtropical regions, often cultivated in gardens.",
+                                    "traditional_uses": "Used in traditional Chinese medicine for hair health and respiratory conditions.",
+                                    "parts_used": "Leaves, Seeds.",
+                                    "precautions": "No significant side effects reported.",
+                                    "description": "Oriental Arborvitae is a medicinal plant valued for its health benefits. Its leaves and seeds are used in traditional medicine for hair and respiratory health."
+                                  },
+                                  "Plectranthus amboinicus": {
+                                    "common_name": "Indian Borage",
+                                    "scientific_name": "Plectranthus amboinicus",
+                                    "benefits": "Treats colds, improves digestion, and reduces inflammation.",
+                                    "habitat": "Tropical and subtropical regions, often cultivated in home gardens.",
+                                    "traditional_uses": "Used in teas and remedies for colds, coughs, and digestion.",
+                                    "parts_used": "Leaves.",
+                                    "precautions": "Overuse may cause mild irritation in sensitive individuals.",
+                                    "description": "Indian Borage is a medicinal herb known for its aromatic leaves and therapeutic properties. It is widely used in remedies for respiratory and digestive health."
+                                  },
+                                  
+                                    "Pluchea pteropoda": {
+                                      "common_name": "Pluchea",
+                                      "scientific_name": "Pluchea pteropoda Hemsl",
+                                      "benefits": "Treats fever, reduces inflammation, and promotes wound healing.",
+                                      "habitat": "Wetlands and tropical regions.",
+                                      "traditional_uses": "Used in poultices for wounds and as a remedy for fever.",
+                                      "parts_used": "Leaves, Roots.",
+                                      "precautions": "No significant side effects reported.",
+                                      "description": "Pluchea is a medicinal plant with anti-inflammatory and wound-healing properties. It is traditionally used to treat fever and skin conditions."
+                                    },
+                                    "Plukenetia volubilis": {
+                                      "common_name": "Sacha Inchi",
+                                      "scientific_name": "Plukenetia volubilis",
+                                      "benefits": "Rich in omega-3 fatty acids, supports heart health, and improves skin health.",
+                                      "habitat": "Tropical forests, often in South America.",
+                                      "traditional_uses": "Seeds are used for their oil, which is valued for its nutritional benefits.",
+                                      "parts_used": "Seeds.",
+                                      "precautions": "No significant side effects reported.",
+                                      "description": "Sacha Inchi is a highly nutritious plant known for its seeds, which are rich in essential fatty acids. It is widely used for heart and skin health."
+                                    },
+                                    "Plumbago indica": {
+                                      "common_name": "Scarlet Leadwort",
+                                      "scientific_name": "Plumbago indica",
+                                      "benefits": "Treats skin conditions, improves digestion, and supports respiratory health.",
+                                      "habitat": "Tropical and subtropical regions.",
+                                      "traditional_uses": "Roots are used in traditional medicine for skin ailments and digestive health.",
+                                      "parts_used": "Roots.",
+                                      "precautions": "May cause irritation if used excessively.",
+                                      "description": "Scarlet Leadwort is a medicinal plant valued for its vibrant flowers and therapeutic roots. It is traditionally used for skin and digestive health."
+                                    },
+                                    "Plumeria rubra": {
+                                      "common_name": "Frangipani",
+                                      "scientific_name": "Plumeria rubra",
+                                      "benefits": "Relieves inflammation, supports skin health, and reduces fever.",
+                                      "habitat": "Tropical and subtropical regions, often cultivated in gardens.",
+                                      "traditional_uses": "Used in traditional remedies for skin conditions and fever.",
+                                      "parts_used": "Flowers, Bark.",
+                                      "precautions": "May cause skin irritation in sensitive individuals.",
+                                      "description": "Frangipani is a fragrant flowering plant with medicinal properties. Its bark and flowers are used in traditional remedies for inflammation and skin health."
+                                    },
+                                    "Polygonum cuspidatum": {
+                                      "common_name": "Japanese Knotweed",
+                                      "scientific_name": "Polygonum cuspidatum",
+                                      "benefits": "Rich in antioxidants, supports heart health, and reduces inflammation.",
+                                      "habitat": "Temperate regions, often in grasslands and wetlands.",
+                                      "traditional_uses": "Roots are used in traditional medicine for heart health and inflammation.",
+                                      "parts_used": "Roots.",
+                                      "precautions": "May cause mild gastrointestinal discomfort if overused.",
+                                      "description": "Japanese Knotweed is a medicinal plant known for its antioxidant-rich roots. It is traditionally used to support cardiovascular and inflammatory health."
+                                    },
+                                    "Polyscias fruticosa": {
+                                      "common_name": "Ming Aralia",
+                                      "scientific_name": "Polyscias fruticosa",
+                                      "benefits": "Reduces stress, improves digestion, and supports respiratory health.",
+                                      "habitat": "Tropical and subtropical regions, often cultivated indoors.",
+                                      "traditional_uses": "Used in traditional medicine for calming and respiratory remedies.",
+                                      "parts_used": "Leaves, Roots.",
+                                      "precautions": "No significant side effects reported.",
+                                      "description": "Ming Aralia is an ornamental plant with therapeutic properties. Its leaves and roots are used in traditional remedies for stress and digestion."
+                                    },
+                                    "Polyscias guilfoylei": {
+                                      "common_name": "Geranium Aralia",
+                                      "scientific_name": "Polyscias guilfoylei",
+                                      "benefits": "Improves air quality, reduces stress, and promotes relaxation.",
+                                      "habitat": "Tropical regions, often grown as an indoor plant.",
+                                      "traditional_uses": "Used in traditional medicine for calming purposes.",
+                                      "parts_used": "Leaves.",
+                                      "precautions": "No significant side effects reported.",
+                                      "description": "Geranium Aralia is an attractive plant valued for its ability to purify air and reduce stress. Its leaves are also used in herbal remedies."
+                                    },
+                                    "Polyscias scutellaria": {
+                                      "common_name": "Shield Aralia",
+                                      "scientific_name": "Polyscias scutellaria",
+                                      "benefits": "Improves skin health, reduces inflammation, and supports wound healing.",
+                                      "habitat": "Tropical and subtropical regions, often in gardens.",
+                                      "traditional_uses": "Leaves are used in poultices for wounds and skin conditions.",
+                                      "parts_used": "Leaves.",
+                                      "precautions": "No significant side effects reported.",
+                                      "description": "Shield Aralia is a medicinal plant with properties that promote skin health and reduce inflammation. Its leaves are commonly used in traditional medicine."
+                                    },
+                                    "Pouzolzia zeylanica": {
+                                      "common_name": "Pouzolzia",
+                                      "scientific_name": "Pouzolzia zeylanica",
+                                      "benefits": "Treats urinary issues, improves skin health, and supports digestion.",
+                                      "habitat": "Tropical and subtropical forests.",
+                                      "traditional_uses": "Used in traditional remedies for urinary and skin conditions.",
+                                      "parts_used": "Leaves, Roots.",
+                                      "precautions": "No significant side effects reported.",
+                                      "description": "Pouzolzia is a medicinal plant widely used in traditional medicine for its therapeutic effects on the urinary system and skin health."
+                                    },
+                                    "Premna serratifolia": {
+                                      "common_name": "Headache Tree",
+                                      "scientific_name": "Premna serratifolia",
+                                      "benefits": "Treats headaches, improves digestion, and supports respiratory health.",
+                                      "habitat": "Tropical regions, often near coastal areas.",
+                                      "traditional_uses": "Leaves and roots are used in remedies for headaches and colds.",
+                                      "parts_used": "Leaves, Roots.",
+                                      "precautions": "No significant side effects reported.",
+                                      "description": "Headache Tree is a medicinal plant traditionally used to relieve headaches and support respiratory health. Its leaves and roots are highly valued in herbal medicine."
+                                    },
+                                    
+                                      "Pseuderanthemum latifolium": {
+                                        "common_name": "Broadleaf False Eranthemum",
+                                        "scientific_name": "Pseuderanthemum latifolium",
+                                        "benefits": "Reduces inflammation, supports skin health, and promotes wound healing.",
+                                        "habitat": "Tropical and subtropical regions.",
+                                        "traditional_uses": "Leaves are used in poultices for skin conditions and inflammation.",
+                                        "parts_used": "Leaves, Roots.",
+                                        "precautions": "No significant side effects reported.",
+                                        "description": "Broadleaf False Eranthemum is a medicinal plant with anti-inflammatory and wound-healing properties. It is traditionally used for skin and inflammatory conditions."
+                                      },
+                                      "Psidium guajava": {
+                                        "common_name": "Guava",
+                                        "scientific_name": "Psidium guajava",
+                                        "benefits": "Rich in antioxidants, supports digestion, and promotes immunity.",
+                                        "habitat": "Tropical and subtropical regions.",
+                                        "traditional_uses": "Leaves are used for diarrhea and as a mouthwash for oral health.",
+                                        "parts_used": "Fruits, Leaves.",
+                                        "precautions": "Excessive consumption may cause constipation.",
+                                        "description": "Guava is a tropical fruit-bearing tree with numerous medicinal properties. Its leaves are used in teas to support digestion and treat diarrhea."
+                                      },
+                                      "Psychotria reevesii Wall": {
+                                        "common_name": "Reeves Psychotria",
+                                        "scientific_name": "Psychotria reevesii",
+                                        "benefits": "Promotes relaxation, supports mental health, and reduces inflammation.",
+                                        "habitat": "Tropical forests and shaded areas.",
+                                        "traditional_uses": "Used in traditional medicine to alleviate stress and reduce swelling.",
+                                        "parts_used": "Leaves, Roots.",
+                                        "precautions": "Limited research available; avoid excessive use.",
+                                        "description": "Reeves Psychotria is a medicinal plant traditionally used for its calming and anti-inflammatory properties. It is commonly found in tropical regions."
+                                      },
+                                      "Psychotria rubra": {
+                                        "common_name": "Red Psychotria",
+                                        "scientific_name": "Psychotria rubra",
+                                        "benefits": "Supports respiratory health, reduces fever, and promotes relaxation.",
+                                        "habitat": "Tropical and subtropical regions.",
+                                        "traditional_uses": "Leaves are used in teas for respiratory ailments and fever.",
+                                        "parts_used": "Leaves, Roots.",
+                                        "precautions": "May cause mild side effects if overused.",
+                                        "description": "Red Psychotria is a medicinal plant valued for its therapeutic effects on respiratory health. Its leaves are commonly used in traditional remedies."
+                                      },
+                                      "Quisqualis indica": {
+                                        "common_name": "Rangoon Creeper",
+                                        "scientific_name": "Quisqualis indica",
+                                        "benefits": "Treats intestinal worms, supports digestion, and promotes skin health.",
+                                        "habitat": "Tropical and subtropical regions.",
+                                        "traditional_uses": "Seeds are used as anthelmintics; leaves and flowers are used for skin disorders.",
+                                        "parts_used": "Seeds, Leaves, Flowers.",
+                                        "precautions": "Seeds should be used with caution as they can be toxic in high doses.",
+                                        "description": "Rangoon Creeper is a medicinal vine with properties that help eliminate intestinal worms and improve skin health. Its seeds and leaves are highly valued in traditional medicine."
+                                      },
+                                      "Rauvolfia": {
+                                        "common_name": "Indian Snakeroot",
+                                        "scientific_name": "Rauvolfia serpentina",
+                                        "benefits": "Lowers blood pressure, treats insomnia, and reduces anxiety.",
+                                        "habitat": "Tropical and subtropical regions, often in forests.",
+                                        "traditional_uses": "Roots are used in Ayurveda for hypertension and mental disorders.",
+                                        "parts_used": "Roots.",
+                                        "precautions": "Should be used under medical supervision due to potential side effects.",
+                                        "description": "Indian Snakeroot is a traditional herb known for its calming effects and ability to lower blood pressure. It is a key ingredient in many Ayurvedic medicines."
+                                      },
+                                      "Rauvolfia tetraphylla": {
+                                        "common_name": "Be Still Tree",
+                                        "scientific_name": "Rauvolfia tetraphylla",
+                                        "benefits": "Lowers blood pressure, treats fevers, and relieves pain.",
+                                        "habitat": "Tropical and subtropical regions.",
+                                        "traditional_uses": "Roots are used in remedies for fever and as a sedative.",
+                                        "parts_used": "Roots.",
+                                        "precautions": "May cause drowsiness or dizziness.",
+                                        "description": "Be Still Tree is a medicinal plant closely related to Indian Snakeroot, used for its antihypertensive and calming properties. Its roots are traditionally used to treat fevers and pain."
+                                      },
+                                      "Rhinacanthus nasutus": {
+                                        "common_name": "Snake Jasmine",
+                                        "scientific_name": "Rhinacanthus nasutus",
+                                        "benefits": "Treats skin disorders, supports liver health, and reduces inflammation.",
+                                        "habitat": "Tropical and subtropical regions.",
+                                        "traditional_uses": "Leaves and roots are used for eczema, psoriasis, and liver ailments.",
+                                        "parts_used": "Leaves, Roots.",
+                                        "precautions": "May cause mild side effects in sensitive individuals.",
+                                        "description": "Snake Jasmine is a tropical medicinal herb known for its benefits in treating skin conditions and supporting liver health. Its leaves and roots are widely used in traditional medicine."
+                                      },
+                                      "Rhodomyrtus tomentosa": {
+                                        "common_name": "Downy Rose Myrtle",
+                                        "scientific_name": "Rhodomyrtus tomentosa",
+                                        "benefits": "Rich in antioxidants, supports digestive health, and promotes wound healing.",
+                                        "habitat": "Tropical and subtropical regions.",
+                                        "traditional_uses": "Fruits are consumed for digestive health; leaves are used in poultices for wounds.",
+                                        "parts_used": "Fruits, Leaves.",
+                                        "precautions": "No significant side effects reported.",
+                                        "description": "Downy Rose Myrtle is a tropical plant with edible fruits and medicinal leaves. It is traditionally used to support digestion and heal wounds."
+                                      },
+                                      "Ruellia tuberosa": {
+                                        "common_name": "Cracker Plant",
+                                        "scientific_name": "Ruellia tuberosa",
+                                        "benefits": "Treats inflammation, lowers blood sugar, and promotes urinary health.",
+                                        "habitat": "Tropical and subtropical regions, commonly found in grasslands.",
+                                        "traditional_uses": "Roots are used for diabetes; leaves are applied for inflammation.",
+                                        "parts_used": "Roots, Leaves.",
+                                        "precautions": "Limited research available; use with caution.",
+                                        "description": "Cracker Plant is a medicinal herb known for its anti-inflammatory and antidiabetic properties. Its roots and leaves are commonly used in traditional remedies."
+                                      },
+                                      
+                                        "Sanseviera canaliculata Carr": {
+                                          "common_name": "Channelled Snake Plant",
+                                          "scientific_name": "Sanseviera canaliculata",
+                                          "benefits": "Improves air quality, reduces stress, and has antimicrobial properties.",
+                                          "habitat": "Dry and arid regions.",
+                                          "traditional_uses": "Used for respiratory health and wound healing in traditional medicine.",
+                                          "parts_used": "Leaves, Roots.",
+                                          "precautions": "Avoid ingesting; can be toxic if consumed in large quantities.",
+                                          "description": "Channelled Snake Plant is a hardy plant with air-purifying properties. It is also valued for its antimicrobial and calming effects."
+                                        },
+                                        "Sansevieria hyacinthoides": {
+                                          "common_name": "Bowstring Hemp",
+                                          "scientific_name": "Sansevieria hyacinthoides",
+                                          "benefits": "Purifies air, treats respiratory issues, and promotes wound healing.",
+                                          "habitat": "Tropical and subtropical regions.",
+                                          "traditional_uses": "Leaves are used for respiratory ailments and skin conditions.",
+                                          "parts_used": "Leaves.",
+                                          "precautions": "Avoid ingesting as it may cause stomach irritation.",
+                                          "description": "Bowstring Hemp is a resilient plant with medicinal and air-purifying properties. It is traditionally used for respiratory and skin health."
+                                        },
+                                        "Sarcandra glabra": {
+                                          "common_name": "Bone-Binding Herb",
+                                          "scientific_name": "Sarcandra glabra",
+                                          "benefits": "Supports bone health, reduces inflammation, and boosts immunity.",
+                                          "habitat": "Shaded, tropical areas.",
+                                          "traditional_uses": "Used for treating bone fractures, arthritis, and immune-related conditions.",
+                                          "parts_used": "Whole plant.",
+                                          "precautions": "Use with caution in individuals with allergies.",
+                                          "description": "Bone-Binding Herb is a medicinal plant with properties that support bone healing and immune function. It is widely used in traditional medicine for fractures and inflammation."
+                                        },
+                                        "Sauropus androgynus": {
+                                          "common_name": "Sweet Leaf",
+                                          "scientific_name": "Sauropus androgynus",
+                                          "benefits": "Rich in vitamins, improves digestion, and supports lactation.",
+                                          "habitat": "Tropical and subtropical regions.",
+                                          "traditional_uses": "Used as a vegetable and for improving milk production in nursing mothers.",
+                                          "parts_used": "Leaves.",
+                                          "precautions": "Overconsumption can cause respiratory issues.",
+                                          "description": "Sweet Leaf is a leafy vegetable with medicinal properties, traditionally used to support digestion and lactation. It is also a rich source of vitamins."
+                                        },
+                                        "Schefflera heptaphylla": {
+                                          "common_name": "Seven-Leaf Tree",
+                                          "scientific_name": "Schefflera heptaphylla",
+                                          "benefits": "Reduces inflammation, supports joint health, and relieves pain.",
+                                          "habitat": "Subtropical and tropical forests.",
+                                          "traditional_uses": "Used in traditional Chinese medicine for rheumatism and pain relief.",
+                                          "parts_used": "Leaves, Roots.",
+                                          "precautions": "Limited research on long-term use.",
+                                          "description": "Seven-Leaf Tree is a medicinal plant traditionally used for its anti-inflammatory and pain-relieving properties. It is commonly used for joint health."
+                                        },
+                                        "Schefflera venulosa": {
+                                          "common_name": "Veined Schefflera",
+                                          "scientific_name": "Schefflera venulosa",
+                                          "benefits": "Treats inflammation, reduces fever, and promotes skin healing.",
+                                          "habitat": "Tropical and subtropical regions.",
+                                          "traditional_uses": "Used for fever reduction and wound healing in traditional remedies.",
+                                          "parts_used": "Leaves, Bark.",
+                                          "precautions": "Use with caution in individuals with sensitive skin.",
+                                          "description": "Veined Schefflera is a medicinal plant known for its anti-inflammatory and fever-reducing properties. It is traditionally used for skin and fever-related conditions."
+                                        },
+                                        "Senna alata": {
+                                          "common_name": "Candle Bush",
+                                          "scientific_name": "Senna alata",
+                                          "benefits": "Treats fungal infections, supports skin health, and promotes digestion.",
+                                          "habitat": "Tropical and subtropical regions.",
+                                          "traditional_uses": "Leaves are used as a remedy for ringworm and other fungal infections.",
+                                          "parts_used": "Leaves.",
+                                          "precautions": "Avoid excessive use; may cause stomach irritation.",
+                                          "description": "Candle Bush is a medicinal plant with antifungal and skin-healing properties. Its leaves are traditionally used to treat fungal infections like ringworm."
+                                        },
+                                        "Sida acuta Burm": {
+                                          "common_name": "Common Wireweed",
+                                          "scientific_name": "Sida acuta",
+                                          "benefits": "Reduces inflammation, relieves pain, and promotes wound healing.",
+                                          "habitat": "Tropical and subtropical regions, often in open grasslands.",
+                                          "traditional_uses": "Used for treating fevers, wounds, and inflammation.",
+                                          "parts_used": "Whole plant.",
+                                          "precautions": "Avoid prolonged use; may cause mild side effects.",
+                                          "description": "Common Wireweed is a medicinal herb with anti-inflammatory and pain-relieving properties. It is commonly used in traditional medicine for fevers and wounds."
+                                        },
+                                        "Solanum Mammosum": {
+                                          "common_name": "Nipplefruit",
+                                          "scientific_name": "Solanum Mammosum",
+                                          "benefits": "Treats skin conditions, supports wound healing, and has antimicrobial properties.",
+                                          "habitat": "Tropical and subtropical regions.",
+                                          "traditional_uses": "Fruits are used for skin disorders and as an antimicrobial agent.",
+                                          "parts_used": "Fruits.",
+                                          "precautions": "Fruits are toxic if ingested.",
+                                          "description": "Nipplefruit is a unique-looking plant with medicinal properties, traditionally used for skin health and as an antimicrobial agent."
+                                        },
+                                        "Solanum torvum": {
+                                          "common_name": "Turkey Berry",
+                                          "scientific_name": "Solanum torvum",
+                                          "benefits": "Supports blood health, improves digestion, and reduces inflammation.",
+                                          "habitat": "Tropical and subtropical regions.",
+                                          "traditional_uses": "Fruits are used to treat anemia, digestive issues, and inflammation.",
+                                          "parts_used": "Fruits, Leaves.",
+                                          "precautions": "Avoid overconsumption; may cause mild gastrointestinal discomfort.",
+                                          "description": "Turkey Berry is a medicinal plant with properties that support blood health and digestion. Its fruits are commonly used in traditional remedies for anemia and inflammation."
+                                        },
+                                        
+                                          "Spilanthes acmella": {
+                                            "common_name": "Toothache Plant",
+                                            "scientific_name": "Spilanthes acmella",
+                                            "benefits": "Relieves toothache, boosts immunity, and has antimicrobial properties.",
+                                            "habitat": "Tropical and subtropical regions.",
+                                            "traditional_uses": "Used for toothaches, oral health, and as an immune booster.",
+                                            "parts_used": "Flowers, Leaves.",
+                                            "precautions": "Avoid excessive use; may cause temporary numbness.",
+                                            "description": "The Toothache Plant is known for its numbing properties and is traditionally used for oral health and boosting immunity."
+                                          },
+                                          "Spondias dulcis": {
+                                            "common_name": "Ambarella",
+                                            "scientific_name": "Spondias dulcis",
+                                            "benefits": "Rich in vitamin C, supports digestion, and boosts immunity.",
+                                            "habitat": "Tropical regions.",
+                                            "traditional_uses": "Fruits are consumed to improve digestion and boost immunity.",
+                                            "parts_used": "Fruits, Leaves.",
+                                            "precautions": "Avoid consuming unripe fruit in large quantities; may cause stomach upset.",
+                                            "description": "Ambarella is a tropical fruit plant known for its tangy fruits that are rich in vitamins and traditionally used to support digestion and immunity."
+                                          },
+                                          "Stachytarpheta jamaicensis": {
+                                            "common_name": "Blue Porterweed",
+                                            "scientific_name": "Stachytarpheta jamaicensis",
+                                            "benefits": "Reduces inflammation, treats respiratory issues, and promotes wound healing.",
+                                            "habitat": "Tropical and subtropical regions.",
+                                            "traditional_uses": "Used for coughs, colds, and as a topical remedy for wounds.",
+                                            "parts_used": "Leaves, Flowers.",
+                                            "precautions": "Use with caution in individuals with plant allergies.",
+                                            "description": "Blue Porterweed is a medicinal plant traditionally used for respiratory health and wound healing due to its anti-inflammatory properties."
+                                          },
+                                          "Stephania dielsiana": {
+                                            "common_name": "Stephania",
+                                            "scientific_name": "Stephania dielsiana",
+                                            "benefits": "Supports respiratory health, reduces fever, and improves circulation.",
+                                            "habitat": "Tropical forests.",
+                                            "traditional_uses": "Used in traditional medicine for treating fevers and respiratory conditions.",
+                                            "parts_used": "Roots, Tubers.",
+                                            "precautions": "Avoid excessive use; may cause dizziness.",
+                                            "description": "Stephania is a medicinal herb used for its fever-reducing and respiratory benefits. It is commonly found in tropical forests."
+                                          },
+                                          "Stereospermum chelonoides": {
+                                            "common_name": "Trumpet Flower Tree",
+                                            "scientific_name": "Stereospermum chelonoides",
+                                            "benefits": "Relieves pain, reduces inflammation, and supports respiratory health.",
+                                            "habitat": "Subtropical and tropical forests.",
+                                            "traditional_uses": "Used in traditional medicine for pain relief and respiratory issues.",
+                                            "parts_used": "Bark, Leaves.",
+                                            "precautions": "Use under medical supervision; limited research on side effects.",
+                                            "description": "Trumpet Flower Tree is valued in traditional medicine for its anti-inflammatory and respiratory health benefits."
+                                          },
+                                          "Streptocaulon juventas": {
+                                            "common_name": "Streptocaulon",
+                                            "scientific_name": "Streptocaulon juventas",
+                                            "benefits": "Supports skin health, treats fungal infections, and reduces inflammation.",
+                                            "habitat": "Tropical and subtropical regions.",
+                                            "traditional_uses": "Used for skin conditions and fungal infections in traditional remedies.",
+                                            "parts_used": "Leaves, Roots.",
+                                            "precautions": "Avoid prolonged use; may cause skin irritation in sensitive individuals.",
+                                            "description": "Streptocaulon is a medicinal plant known for its anti-inflammatory and antifungal properties, often used for skin health."
+                                          },
+                                          "Syzygium nervosum": {
+                                            "common_name": "Wild Jambolan",
+                                            "scientific_name": "Syzygium nervosum",
+                                            "benefits": "Rich in antioxidants, supports digestion, and reduces inflammation.",
+                                            "habitat": "Tropical forests.",
+                                            "traditional_uses": "Fruits and leaves are used to treat digestive issues and inflammation.",
+                                            "parts_used": "Fruits, Leaves.",
+                                            "precautions": "Avoid overconsumption; may cause mild gastrointestinal discomfort.",
+                                            "description": "Wild Jambolan is a medicinal plant traditionally used for its antioxidant and digestive benefits."
+                                          },
+                                          "Tabernaemontana divaricata": {
+                                            "common_name": "Crape Jasmine",
+                                            "scientific_name": "Tabernaemontana divaricata",
+                                            "benefits": "Promotes skin health, relieves pain, and reduces inflammation.",
+                                            "habitat": "Tropical and subtropical regions.",
+                                            "traditional_uses": "Used for skin conditions, pain relief, and as an anti-inflammatory.",
+                                            "parts_used": "Leaves, Flowers.",
+                                            "precautions": "Avoid ingesting; may cause mild toxicity.",
+                                            "description": "Crape Jasmine is a medicinal plant known for its soothing and anti-inflammatory properties. It is widely used for skin and pain-related conditions."
+                                          },
+                                          "Tacca subflabellata": {
+                                            "common_name": "Bat Flower",
+                                            "scientific_name": "Tacca subflabellata",
+                                            "benefits": "Supports immune health, reduces inflammation, and treats respiratory conditions.",
+                                            "habitat": "Tropical forests.",
+                                            "traditional_uses": "Used for respiratory health and boosting immunity.",
+                                            "parts_used": "Tubers, Roots.",
+                                            "precautions": "Avoid excessive use; limited research on side effects.",
+                                            "description": "Bat Flower is a unique medicinal plant traditionally used for immune and respiratory health."
+                                          },
+                                          "Tamarindus indica": {
+                                            "common_name": "Tamarind",
+                                            "scientific_name": "Tamarindus indica",
+                                            "benefits": "Rich in vitamins, supports digestion, and reduces inflammation.",
+                                            "habitat": "Tropical regions.",
+                                            "traditional_uses": "Used as a natural laxative and for treating digestive issues.",
+                                            "parts_used": "Fruits, Leaves.",
+                                            "precautions": "Overconsumption may lead to stomach discomfort.",
+                                            "description": "Tamarind is a tropical fruit plant known for its tangy flavor and digestive benefits. It is widely used in culinary and medicinal practices."
+                                          },
+                                          
+                                            "Terminalia catappa": {
+                                              "common_name": "Indian Almond",
+                                              "scientific_name": "Terminalia catappa",
+                                              "benefits": "Rich in antioxidants, supports skin health, and promotes liver health.",
+                                              "habitat": "Tropical coastal areas.",
+                                              "traditional_uses": "Leaves are used for skin conditions and as a liver tonic.",
+                                              "parts_used": "Leaves, Fruits, Bark.",
+                                              "precautions": "Avoid overuse; may cause mild gastrointestinal issues.",
+                                              "description": "Indian Almond is a tropical tree valued for its antioxidant-rich leaves, which are traditionally used to promote skin and liver health."
+                                            },
+                                            "Tradescantia discolor": {
+                                              "common_name": "Oyster Plant",
+                                              "scientific_name": "Tradescantia discolor",
+                                              "benefits": "Promotes wound healing, reduces inflammation, and supports skin health.",
+                                              "habitat": "Tropical and subtropical regions.",
+                                              "traditional_uses": "Used in poultices for wounds and skin inflammation.",
+                                              "parts_used": "Leaves.",
+                                              "precautions": "May cause skin irritation in sensitive individuals.",
+                                              "description": "Oyster Plant is a medicinal herb traditionally used for its anti-inflammatory properties and wound healing."
+                                            },
+                                            "Trichanthera gigantea": {
+                                              "common_name": "Nacedero",
+                                              "scientific_name": "Trichanthera gigantea",
+                                              "benefits": "Supports digestion, promotes livestock health, and acts as a nutrient supplement.",
+                                              "habitat": "Tropical regions.",
+                                              "traditional_uses": "Used as animal fodder and for improving digestion.",
+                                              "parts_used": "Leaves.",
+                                              "precautions": "Primarily used for animal feed; limited human use.",
+                                              "description": "Nacedero is a tropical plant commonly used as fodder due to its high nutritional content and digestive benefits."
+                                            },
+                                            "Vernonia amygdalina": {
+                                              "common_name": "Bitter Leaf",
+                                              "scientific_name": "Vernonia amygdalina",
+                                              "benefits": "Improves digestion, supports liver health, and boosts immunity.",
+                                              "habitat": "Tropical and subtropical regions.",
+                                              "traditional_uses": "Used for digestive issues, malaria, and liver health.",
+                                              "parts_used": "Leaves.",
+                                              "precautions": "Avoid excessive use; may cause mild nausea.",
+                                              "description": "Bitter Leaf is a medicinal plant known for its bitter taste and traditional use in promoting liver health and immunity."
+                                            },
+                                            "Vitex negundo": {
+                                              "common_name": "Chinese Chaste Tree",
+                                              "scientific_name": "Vitex negundo",
+                                              "benefits": "Relieves joint pain, supports respiratory health, and reduces inflammation.",
+                                              "habitat": "Tropical and subtropical regions.",
+                                              "traditional_uses": "Used for joint pain, asthma, and colds.",
+                                              "parts_used": "Leaves, Seeds.",
+                                              "precautions": "Avoid during pregnancy; may cause mild skin irritation.",
+                                              "description": "Chinese Chaste Tree is a medicinal plant traditionally used for respiratory health and pain relief."
+                                            },
+                                            "Xanthium strumarium": {
+                                              "common_name": "Cocklebur",
+                                              "scientific_name": "Xanthium strumarium",
+                                              "benefits": "Treats sinus issues, reduces inflammation, and promotes skin health.",
+                                              "habitat": "Tropical and subtropical regions.",
+                                              "traditional_uses": "Used for sinus infections and as a topical remedy for skin conditions.",
+                                              "parts_used": "Seeds, Leaves.",
+                                              "precautions": "Toxic in large quantities; use with caution.",
+                                              "description": "Cocklebur is a medicinal plant known for its traditional use in treating sinus infections and promoting skin health."
+                                            },
+                                            "Zanthoxylum avicennae": {
+                                              "common_name": "Wild Pepper",
+                                              "scientific_name": "Zanthoxylum avicennae",
+                                              "benefits": "Supports digestion, relieves pain, and has antimicrobial properties.",
+                                              "habitat": "Tropical and subtropical forests.",
+                                              "traditional_uses": "Used for digestive issues, pain relief, and as a natural antiseptic.",
+                                              "parts_used": "Bark, Seeds.",
+                                              "precautions": "Avoid excessive use; may cause irritation in sensitive individuals.",
+                                              "description": "Wild Pepper is a medicinal plant traditionally used for its digestive and antimicrobial benefits."
+                                            },
+                                            "Zingiber officinale": {
+                                              "common_name": "Ginger",
+                                              "scientific_name": "Zingiber officinale",
+                                              "benefits": "Supports digestion, reduces nausea, and has anti-inflammatory properties.",
+                                              "habitat": "Tropical and subtropical regions.",
+                                              "traditional_uses": "Used for nausea, digestive issues, and inflammation.",
+                                              "parts_used": "Rhizomes.",
+                                              "precautions": "Avoid excessive use; may cause heartburn or irritation.",
+                                              "description": "Ginger is a widely used medicinal herb known for its digestive and anti-inflammatory benefits."
+                                            },
+                                            "Ziziphus mauritiana": {
+                                              "common_name": "Indian Jujube",
+                                              "scientific_name": "Ziziphus mauritiana",
+                                              "benefits": "Rich in vitamin C, boosts immunity, and promotes digestion.",
+                                              "habitat": "Tropical and subtropical regions.",
+                                              "traditional_uses": "Fruits are consumed for immune and digestive health.",
+                                              "parts_used": "Fruits, Leaves.",
+                                              "precautions": "Avoid consuming unripe fruits; may cause stomach discomfort.",
+                                              "description": "Indian Jujube is a tropical fruit plant known for its sweet fruits, traditionally used to boost immunity and support digestion."
+                                            },
+                                            "Helicteres hirsuta": {
+                                              "common_name": "Hairy Screw Tree",
+                                              "scientific_name": "Helicteres hirsuta",
+                                              "benefits": "Reduces inflammation, supports skin health, and promotes wound healing.",
+                                              "habitat": "Tropical regions.",
+                                              "traditional_uses": "Used for wound healing and skin conditions.",
+                                              "parts_used": "Leaves, Bark.",
+                                              "precautions": "Avoid prolonged use; limited research on side effects.",
+                                              "description": "Hairy Screw Tree is a medicinal plant traditionally used for its anti-inflammatory properties and wound-healing benefits."
+                                            }
+                                          
+                                          
+                                        
+                                        
+                                      
+                                      
+                                    
+                                    
+                                    
+                                  
+                                  
+                                
+                                
+                              
+                              
+                            
+                            
+                            
+                          
+                          
+                        
+                      
+                      
+                    
+}
+  
