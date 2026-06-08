@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Herbal Garden</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+            color: white;
+            margin: 0;
+            padding: 0;
+            background: url('https://res.cloudinary.com/de1ay7olq/image/upload/v1739967871/background_ehsfod.jpg') no-repeat center center fixed;
+            background-size: cover;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            backdrop-filter: blur(5px);
+        }
+        .animated-text {
+            font-size: 2em;
+            font-weight: bold;
+            background: linear-gradient(45deg, #4CAF50, #FF9800);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: fadeIn 2s ease-in-out infinite alternate;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0.6; }
+            to { opacity: 1; }
+        }
+        .upload-box {
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            width: 50%;
+            text-align: center;
+            animation: fadeIn 1.5s ease-in-out;
+        }
+        input[type="file"] {
+            display: none;
+        }
+        .custom-file-upload {
+            background: #4CAF50;
+            padding: 12px 20px;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: 0.3s;
+            display: inline-block;
+            margin-top: 10px;
+        }
+        .custom-file-upload:hover {
+            background: #45a049;
+        }
+        button {
+            background: #FF9800;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: 0.3s;
+            margin-top: 10px;
+        }
+        button:hover {
+            background: #e68900;
+        }
+        .result {
+            margin-top: 20px;
+            animation: fadeIn 1s ease-in-out;
+        }
+        .result img {
+            width: 200px;
+            border-radius: 10px;
+            margin-top: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+        }
+        .result p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="upload-box">
+            <h1 class="animated-text">🌿 Virtual Herbal Garden 🌿</h1>
+            <label for="imageUpload" class="custom-file-upload">Choose an Image</label>
+            <input type="file" id="imageUpload">
+            <button onclick="uploadImage()">Predict Plant</button>
+            <div class="result" id="result"></div>
+        </div>
+    </div>
+
+    <script>
+        function uploadImage() {
+            let fileInput = document.getElementById("imageUpload");
+            if (fileInput.files.length === 0) {
+                alert("Please select an image first.");
+                return;
+            }
+            let formData = new FormData();
+            formData.append("file", fileInput.files[0]);
+
+            fetch("/", {
+                method: "POST",
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.error) {
+                    alert(data.error);
+                    return;
+                }
+                let resultDiv = document.getElementById("result");
+                resultDiv.innerHTML = `
+                    <h2>Detected Plant: ${data.plant_name}</h2>
+                    <img src="${data.image_path}" alt="Uploaded Image">
+                    <h3>Common Name: ${data.common_name}</h3>
+                    <p><strong>Scientific Name:</strong> ${data.scientific_name}</p>
+                    <p><strong>Benefits:</strong> ${data.benefits}</p>
+                    <p><strong>Habitat:</strong> ${data.habitat}</p>
+                    <p><strong>Traditional Uses:</strong> ${data.traditional_uses}</p>
+                    <p><strong>Parts Used:</strong> ${data.parts_used}</p>
+                    <p><strong>Precautions:</strong> ${data.precautions}</p>
+                    <p><strong>Description:</strong> ${data.description}</p>
+                `;
+            })
+            .catch(error => console.error("Error:", error));
+        }
+    </script>
+</body>
+</html>
